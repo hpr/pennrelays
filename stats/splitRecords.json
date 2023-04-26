@@ -19,297 +19,7 @@
     "startPlace": 15,
     "endPlace": 3
   },
-  "HS Girls' 4x400 (117)": {
-    "leg": 4,
-    "team": "Pleasantville (NJ)",
-    "name": "Maya Harper",
-    "year": "2019",
-    "splitStr": "57.17",
-    "splitTime": 57.167,
-    "startPlace": 9,
-    "endPlace": 6
-  },
-  "HS Girls' 4x400 (118)": {
-    "leg": 1,
-    "team": "Notre Dame (NJ)",
-    "name": "Franny Owoh",
-    "year": "2019",
-    "splitStr": "59.93",
-    "splitTime": 59.924,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (119)": {
-    "leg": 4,
-    "team": "Marlboro (NJ)",
-    "name": "Hannah Brown",
-    "year": "2019",
-    "splitStr": "1:00.67",
-    "splitTime": 60.662000000000006,
-    "startPlace": 5,
-    "endPlace": 3
-  },
-  "HS Girls' 4x400 (120)": {
-    "leg": 1,
-    "team": "Holy Angels (NJ)",
-    "name": "Eliza Hoover",
-    "year": "2019",
-    "splitStr": "57.18",
-    "splitTime": 57.173,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (121)": {
-    "leg": 4,
-    "team": "Newburgh Free (NY)",
-    "name": "Alondra Cruz Delgado",
-    "year": "2019",
-    "splitStr": "58.43",
-    "splitTime": 58.42999999999998,
-    "startPlace": 2,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (122)": {
-    "leg": 2,
-    "team": "Clement Howell (TKS)",
-    "name": "Alexia Prince",
-    "year": "2019",
-    "splitStr": "58.94",
-    "splitTime": 58.938,
-    "startPlace": 4,
-    "endPlace": 2
-  },
-  "HS Girls' 4x400 (123)": {
-    "leg": 2,
-    "team": "Central (MD)",
-    "name": "Jayla Housen",
-    "year": "2019",
-    "splitStr": "58.51",
-    "splitTime": 58.510000000000005,
-    "startPlace": 4,
-    "endPlace": 2
-  },
-  "HS Girls' 4x400 (124)": {
-    "leg": 4,
-    "team": "St. Dominic Academy (NJ)",
-    "name": "Logan Hart",
-    "year": "2019",
-    "splitStr": "59.19",
-    "splitTime": 59.18199999999999,
-    "startPlace": 1,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (125)": {
-    "leg": 3,
-    "team": "Somerville (NJ)",
-    "name": "Sonia Purohit",
-    "year": "2019",
-    "splitStr": "1:00.97",
-    "splitTime": 60.960999999999984,
-    "startPlace": 5,
-    "endPlace": 2
-  },
-  "HS Girls' 4x400 (126)": {
-    "leg": 1,
-    "team": "Brentwood (NY)",
-    "name": "Donisha Jeanty",
-    "year": "2019",
-    "splitStr": "58.40",
-    "splitTime": 58.399,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (127)": {
-    "leg": 4,
-    "team": "Paint Branch (MD)",
-    "name": "Halimatou Dallo",
-    "year": "2019",
-    "splitStr": "59.00",
-    "splitTime": 58.996999999999986,
-    "startPlace": 2,
-    "endPlace": 2
-  },
-  "HS Girls' 4x400 (138)": {
-    "leg": 2,
-    "team": "Ridge (NJ)",
-    "name": "Jennifer Hodges",
-    "year": "2019",
-    "splitStr": "56.66",
-    "splitTime": 56.660000000000004,
-    "startPlace": 7,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (129)": {
-    "leg": 2,
-    "team": "Wise (MD)",
-    "name": "Jordan Mozie",
-    "year": "2019",
-    "splitStr": "57.36",
-    "splitTime": 57.35199999999999,
-    "startPlace": 1,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (130)": {
-    "leg": 4,
-    "team": "Scotch Plains-Fanwood (NJ)",
-    "name": "Julia Jackson",
-    "year": "2019",
-    "splitStr": "59.08",
-    "splitTime": 59.071,
-    "startPlace": 1,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (131)": {
-    "leg": 2,
-    "team": "Twin Valley (PA)",
-    "name": "Morgan Mattia",
-    "year": "2019",
-    "splitStr": "59.09",
-    "splitTime": 59.086,
-    "startPlace": 4,
-    "endPlace": 3
-  },
-  "HS Girls' 4x400 (132)": {
-    "leg": 4,
-    "team": "Sayreville War Memorial (NJ)",
-    "name": "Allison Prieto",
-    "year": "2019",
-    "splitStr": "57.37",
-    "splitTime": 57.361999999999995,
-    "startPlace": 11,
-    "endPlace": 7
-  },
-  "HS Girls' 4x400 (133)": {
-    "leg": 2,
-    "team": "DuVal (MD)",
-    "name": "Ijeoma Asoyne",
-    "year": "2019",
-    "splitStr": "57.57",
-    "splitTime": 57.568,
-    "startPlace": 4,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (134)": {
-    "leg": 1,
-    "team": "Kent Place (NJ)",
-    "name": "Grace Morris",
-    "year": "2019",
-    "splitStr": "56.28",
-    "splitTime": 56.276,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (135)": {
-    "leg": 4,
-    "team": "West Babylon (NY)",
-    "name": "Nadja Ashley",
-    "year": "2019",
-    "splitStr": "56.79",
-    "splitTime": 56.78800000000001,
-    "startPlace": 1,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (136)": {
-    "leg": 4,
-    "team": "Appoquinimink (DE)",
-    "name": "Julia Lloyd",
-    "year": "2019",
-    "splitStr": "58.03",
-    "splitTime": 58.024,
-    "startPlace": 8,
-    "endPlace": 8
-  },
-  "HS Girls' 4x400 (137)": {
-    "leg": 1,
-    "team": "Broad Run (VA)",
-    "name": "Kayla Hugg",
-    "year": "2019",
-    "splitStr": "56.12",
-    "splitTime": 56.115,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (139)": {
-    "leg": 4,
-    "team": "Montclair (NJ)",
-    "name": "Nyjah Young-Bey",
-    "year": "2019",
-    "splitStr": "57.40",
-    "splitTime": 57.399,
-    "startPlace": 5,
-    "endPlace": 3
-  },
-  "HS Girls' 4x400 (140)": {
-    "leg": 2,
-    "team": "St. Catherine (JAM)",
-    "name": "Annakay Allen",
-    "year": "2019",
-    "splitStr": "54.18",
-    "splitTime": 54.17300000000001,
-    "startPlace": 4,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (141)": {
-    "leg": 2,
-    "team": "Massaponax (VA)",
-    "name": "Aaliyah Pyatt",
-    "year": "2019",
-    "splitStr": "54.90",
-    "splitTime": 54.892,
-    "startPlace": 3,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (142)": {
-    "leg": 4,
-    "team": "Holmdel (NJ)",
-    "name": "Sydney Goldson",
-    "year": "2019",
-    "splitStr": "57.19",
-    "splitTime": 57.18800000000002,
-    "startPlace": 8,
-    "endPlace": 5
-  },
-  "HS Girls' 4x400 (143)": {
-    "leg": 4,
-    "team": "South Lakes (VA)",
-    "name": "Hannah Waller",
-    "year": "2019",
-    "splitStr": "54.29",
-    "splitTime": 54.28800000000001,
-    "startPlace": 3,
-    "endPlace": 3
-  },
-  "HS Girls' 4x400 (144)": {
-    "leg": 2,
-    "team": "Mills Godwin (VA)",
-    "name": "Julie Freitas",
-    "year": "2019",
-    "splitStr": "53.86",
-    "splitTime": 53.85999999999999,
-    "startPlace": 7,
-    "endPlace": 2
-  },
-  "HS Girls' 4x400 (145)": {
-    "leg": 1,
-    "team": "Petersfield (JAM)",
-    "name": "Kayly Guthrie",
-    "year": "2019",
-    "splitStr": "54.13",
-    "splitTime": 54.127,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (146)": {
-    "leg": 2,
-    "team": "Holmwood Tech (JAM)",
-    "name": "Daniella Deer",
-    "year": "2019",
-    "splitStr": "54.36",
-    "splitTime": 54.358,
-    "startPlace": 2,
-    "endPlace": 1
-  },
-  "HS Girls' 4x400 (147)": {
+  "HS Girls' 4x400": {
     "leg": 2,
     "team": "Hydel (JAM)",
     "name": "Garriel White",
@@ -449,7 +159,17 @@
     "startPlace": "N/A",
     "endPlace": 1
   },
-  "College Women's Distance Medley Championship of America": {
+  "College Women's Distance Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "BYU",
+    "name": "Lauren Ellsworth",
+    "year": "2022",
+    "splitStr": "3:18.22",
+    "splitTime": 198.22,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's Distance Medley Championship of America (Leg 2)": {
     "leg": 2,
     "team": "Penn",
     "name": "Uchechi Nwogwugwu",
@@ -459,7 +179,37 @@
     "startPlace": 1,
     "endPlace": 1
   },
-  "College Women's Distance Medley College": {
+  "College Women's Distance Medley Championship of America (Leg 3)": {
+    "leg": 3,
+    "team": "Ole Miss",
+    "name": "Loral  Winn",
+    "year": "2022",
+    "splitStr": "2:04.70",
+    "splitTime": 124.69999999999999,
+    "startPlace": 6,
+    "endPlace": 2
+  },
+  "College Women's Distance Medley Championship of America (Leg 4)": {
+    "leg": 4,
+    "team": "Notre Dame",
+    "name": "Jessica Harris",
+    "year": "2019",
+    "splitStr": "4:28.77",
+    "splitTime": 268.766,
+    "startPlace": 9,
+    "endPlace": 2
+  },
+  "College Women's Distance Medley College (Leg 1)": {
+    "leg": 1,
+    "team": "Yale",
+    "name": "Jocelyn Chau",
+    "year": "2019",
+    "splitStr": "3:28.30",
+    "splitTime": 208.298,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's Distance Medley College (Leg 2)": {
     "leg": 2,
     "team": "Tennessee",
     "name": "Uchechi Nwogwugwu",
@@ -469,7 +219,37 @@
     "startPlace": 2,
     "endPlace": 1
   },
-  "HS Girls' Distance Medley Championship of America": {
+  "College Women's Distance Medley College (Leg 3)": {
+    "leg": 3,
+    "team": "Tennessee",
+    "name": "Allison Rand",
+    "year": "2022",
+    "splitStr": "2:05.81",
+    "splitTime": 125.805,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's Distance Medley College (Leg 4)": {
+    "leg": 4,
+    "team": "James Madison",
+    "name": "Erica Jackson",
+    "year": "2019",
+    "splitStr": "4:49.78",
+    "splitTime": 289.772,
+    "startPlace": 14,
+    "endPlace": 6
+  },
+  "HS Girls' Distance Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "Saratoga Springs (NY)",
+    "name": "Ella Kurto",
+    "year": "2019",
+    "splitStr": "3:35.33",
+    "splitTime": 215.328,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' Distance Medley Championship of America (Leg 2)": {
     "leg": 2,
     "team": "Ridgewood (NJ)",
     "name": "Katherine Muccio",
@@ -477,6 +257,26 @@
     "splitStr": "56.79",
     "splitTime": 56.781000000000006,
     "startPlace": 9,
+    "endPlace": 6
+  },
+  "HS Girls' Distance Medley Championship of America (Leg 3)": {
+    "leg": 3,
+    "team": "Mount de Sales (MD)",
+    "name": "Isabella Whittaker",
+    "year": "2019",
+    "splitStr": "2:14.74",
+    "splitTime": 134.731,
+    "startPlace": 12,
+    "endPlace": 4
+  },
+  "HS Girls' Distance Medley Championship of America (Leg 4)": {
+    "leg": 4,
+    "team": "North Rockland (NY)",
+    "name": "Katelyn Tuohy",
+    "year": "2019",
+    "splitStr": "4:36.94",
+    "splitTime": 276.93399999999997,
+    "startPlace": 15,
     "endPlace": 6
   },
   "College Women's 4x400": {
@@ -539,7 +339,17 @@
     "startPlace": 2,
     "endPlace": 1
   },
-  "College Men's Distance Medley": {
+  "College Men's Distance Medley (Leg 1)": {
+    "leg": 1,
+    "team": "La Salle",
+    "name": "Nicholas Smart",
+    "year": "2019",
+    "splitStr": "3:01.77",
+    "splitTime": 181.77,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's Distance Medley (Leg 2)": {
     "leg": 2,
     "team": "Tennessee",
     "name": "Darryl Harris",
@@ -547,6 +357,26 @@
     "splitStr": "47.21",
     "splitTime": 47.204999999999984,
     "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Men's Distance Medley (Leg 3)": {
+    "leg": 3,
+    "team": "Pittsburgh",
+    "name": "Nate Sloan",
+    "year": "2019",
+    "splitStr": "1:50.15",
+    "splitTime": 110.14300000000003,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "College Men's Distance Medley (Leg 4)": {
+    "leg": 4,
+    "team": "Tennessee",
+    "name": "Zach Long",
+    "year": "2019",
+    "splitStr": "4:05.42",
+    "splitTime": 245.41600000000005,
+    "startPlace": 2,
     "endPlace": 1
   },
   "College Men's 4x400 (Heats)": {
@@ -589,7 +419,17 @@
     "startPlace": 2,
     "endPlace": 2
   },
-  "College Men's Distance Medley Championship of America": {
+  "College Men's Distance Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "Wisconsin",
+    "name": "Adam Spencer",
+    "year": "2022",
+    "splitStr": "2:54.49",
+    "splitTime": 174.49,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's Distance Medley Championship of America (Leg 2)": {
     "leg": 2,
     "team": "Arkansas",
     "name": "Brandon Battle",
@@ -599,7 +439,37 @@
     "startPlace": 6,
     "endPlace": 3
   },
-  "HS Boys' Distance Medley Championship of America": {
+  "College Men's Distance Medley Championship of America (Leg 3)": {
+    "leg": 3,
+    "team": "Ole Miss",
+    "name": "Baylor  Franklin",
+    "year": "2022",
+    "splitStr": "1:47.75",
+    "splitTime": 107.74000000000001,
+    "startPlace": 6,
+    "endPlace": 3
+  },
+  "College Men's Distance Medley Championship of America (Leg 4)": {
+    "leg": 4,
+    "team": "UConn",
+    "name": "Eric Van Der Els",
+    "year": "2022",
+    "splitStr": "3:58.29",
+    "splitTime": 238.28799999999995,
+    "startPlace": 6,
+    "endPlace": 3
+  },
+  "HS Boys' Distance Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "Bronxville (NY)",
+    "name": "Alex Rizzo",
+    "year": "2019",
+    "splitStr": "3:01.53",
+    "splitTime": 181.527,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Boys' Distance Medley Championship of America (Leg 2)": {
     "leg": 2,
     "team": "La Salle Academy (RI)",
     "name": "Steven Doss",
@@ -609,17 +479,47 @@
     "startPlace": 5,
     "endPlace": 3
   },
-  "College Women's Sprint Medley Championship of America": {
+  "HS Boys' Distance Medley Championship of America (Leg 3)": {
     "leg": 3,
-    "team": "Temple",
-    "name": "Marissa  White",
-    "year": "2022",
-    "splitStr": "0.34",
-    "splitTime": -128.654,
+    "team": "St. Anthony's (NY)",
+    "name": "Robert Doherty",
+    "year": "2019",
+    "splitStr": "1:58.28",
+    "splitTime": 118.28,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "HS Boys' Distance Medley Championship of America (Leg 4)": {
+    "leg": 4,
+    "team": "St. Anthony's (NY)",
+    "name": "Brendan Dearie",
+    "year": "2019",
+    "splitStr": "4:13.65",
+    "splitTime": 253.64999999999998,
     "startPlace": 3,
     "endPlace": 1
   },
-  "College Women's Sprint Medley College": {
+  "College Women's Sprint Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "Penn State",
+    "name": "Kiara Lester",
+    "year": "2019",
+    "splitStr": "1:40.54",
+    "splitTime": 100.538,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's Sprint Medley Championship of America (Leg 2)": {
+    "leg": 2,
+    "team": "George Mason",
+    "name": "KellyAnn Downer",
+    "year": "2019",
+    "splitStr": "2:04.37",
+    "splitTime": 124.363,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "College Women's Sprint Medley College (Leg 1)": {
     "leg": 1,
     "team": "Howard",
     "name": "Jessika Gbai",
@@ -629,7 +529,17 @@
     "startPlace": "N/A",
     "endPlace": 1
   },
-  "College Men's Sprint Medley Championship of America": {
+  "College Women's Sprint Medley College (Leg 2)": {
+    "leg": 2,
+    "team": "Indiana Tech",
+    "name": "Sha'londa Terry",
+    "year": "2022",
+    "splitStr": "2:09.67",
+    "splitTime": 129.66500000000002,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Men's Sprint Medley Championship of America (Leg 1)": {
     "leg": 1,
     "team": "Indiana",
     "name": "Antonio Laidler",
@@ -639,7 +549,17 @@
     "startPlace": "N/A",
     "endPlace": 1
   },
-  "College Men's Sprint Medley College": {
+  "College Men's Sprint Medley Championship of America (Leg 2)": {
+    "leg": 2,
+    "team": "Georgetown",
+    "name": "D'Andre Barriffe",
+    "year": "2019",
+    "splitStr": "1:46.45",
+    "splitTime": 106.44200000000001,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Men's Sprint Medley College (Leg 1)": {
     "leg": 1,
     "team": "Middle Tennessee",
     "name": "Stephen Eloji",
@@ -649,15 +569,45 @@
     "startPlace": "N/A",
     "endPlace": 1
   },
-  "Corporate Distance Medley": {
+  "College Men's Sprint Medley College (Leg 2)": {
     "leg": 2,
-    "team": "Merck A",
-    "name": "Elizabeth Chikotas",
+    "team": "Maine",
+    "name": "Mozai Nelson",
+    "year": "2019",
+    "splitStr": "1:54.05",
+    "splitTime": 114.043,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Corporate Distance Medley (Leg 1)": {
+    "leg": 1,
+    "team": "Merck",
+    "name": "Curtis Watro",
+    "year": "2019",
+    "splitStr": "3:19.86",
+    "splitTime": 199.851,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Corporate Distance Medley (Leg 4)": {
+    "leg": 4,
+    "team": "Vanguard A",
+    "name": "Steven Thompson",
     "year": "2022",
-    "splitStr": "1:01.69",
-    "splitTime": 61.68900000000002,
-    "startPlace": 2,
-    "endPlace": 2
+    "splitStr": "4:22.43",
+    "splitTime": 262.43,
+    "startPlace": 5,
+    "endPlace": 4
+  },
+  "Corporate Distance Medley (Leg 3)": {
+    "leg": 3,
+    "team": "On AG",
+    "name": "Steve  DeKoker",
+    "year": "2022",
+    "splitStr": "2:10.06",
+    "splitTime": 130.05400000000003,
+    "startPlace": 1,
+    "endPlace": 1
   },
   "HS Boys' 4x400": {
     "leg": 4,
@@ -1149,7 +1099,17 @@
     "startPlace": 2,
     "endPlace": 1
   },
-  "High School Girls' Distance Medley Championship of America": {
+  "High School Girls' Distance Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "Metuchen (NJ)",
+    "name": "Caroline Schleif ",
+    "year": "2022",
+    "splitStr": "3:34.51",
+    "splitTime": 214.508,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "High School Girls' Distance Medley Championship of America (Leg 2)": {
     "leg": 2,
     "team": "Kent Place (NJ)",
     "name": "Christiana Nwachuku",
@@ -1158,6 +1118,26 @@
     "splitTime": 55.57400000000001,
     "startPlace": 9,
     "endPlace": 5
+  },
+  "High School Girls' Distance Medley Championship of America (Leg 3)": {
+    "leg": 3,
+    "team": "West Springfield (VA)",
+    "name": "Kenza Elakari",
+    "year": "2022",
+    "splitStr": "2:13.45",
+    "splitTime": 133.44299999999998,
+    "startPlace": 8,
+    "endPlace": 2
+  },
+  "High School Girls' Distance Medley Championship of America (Leg 4)": {
+    "leg": 4,
+    "team": "Saratoga Springs (NY)",
+    "name": "Emily Bush",
+    "year": "2022",
+    "splitStr": "4:52.77",
+    "splitTime": 292.76200000000006,
+    "startPlace": 1,
+    "endPlace": 1
   },
   "High School Boys' 4x800 Heats ": {
     "leg": 4,
@@ -1179,7 +1159,17 @@
     "startPlace": 5,
     "endPlace": 2
   },
-  "College Men's Distance Medley College": {
+  "College Men's Distance Medley College (Leg 1)": {
+    "leg": 1,
+    "team": "South Carolina",
+    "name": "Hayden Cobbe",
+    "year": "2022",
+    "splitStr": "2:55.95",
+    "splitTime": 175.947,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's Distance Medley College (Leg 2)": {
     "leg": 2,
     "team": "Monmouth",
     "name": "Jalen Jones",
@@ -1188,6 +1178,26 @@
     "splitTime": 46.899,
     "startPlace": 3,
     "endPlace": 1
+  },
+  "College Men's Distance Medley College (Leg 3)": {
+    "leg": 3,
+    "team": "Stony Brook",
+    "name": "Luke Coulter",
+    "year": "2022",
+    "splitStr": "1:49.35",
+    "splitTime": 109.34899999999996,
+    "startPlace": 4,
+    "endPlace": 4
+  },
+  "College Men's Distance Medley College (Leg 4)": {
+    "leg": 4,
+    "team": "Rutgers",
+    "name": "Billy Hill",
+    "year": "2022",
+    "splitStr": "4:05.33",
+    "splitTime": 245.329,
+    "startPlace": 7,
+    "endPlace": 3
   },
   "College Women's 4x400 Championship of America (Heats)": {
     "leg": 2,
@@ -1219,7 +1229,17 @@
     "startPlace": 3,
     "endPlace": 3
   },
-  "High School Boys' Distance Medley Championship of America": {
+  "High School Boys' Distance Medley Championship of America (Leg 1)": {
+    "leg": 1,
+    "team": "St. Raphael (RI)",
+    "name": "Jack Pereira",
+    "year": "2022",
+    "splitStr": "3:10.50",
+    "splitTime": 190.49099999999999,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "High School Boys' Distance Medley Championship of America (Leg 2)": {
     "leg": 2,
     "team": "Union Catholic (NJ)",
     "name": "Nick Givan",
@@ -1228,6 +1248,26 @@
     "splitTime": 49.72999999999999,
     "startPlace": 2,
     "endPlace": 1
+  },
+  "High School Boys' Distance Medley Championship of America (Leg 3)": {
+    "leg": 3,
+    "team": "Severna Park (MD)",
+    "name": "Eddie Sullivan",
+    "year": "2022",
+    "splitStr": "1:55.74",
+    "splitTime": 115.73899999999998,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "High School Boys' Distance Medley Championship of America (Leg 4)": {
+    "leg": 4,
+    "team": "St. Raphael (RI)",
+    "name": "Devan Kipyego",
+    "year": "2022",
+    "splitStr": "4:04.35",
+    "splitTime": 244.346,
+    "startPlace": 8,
+    "endPlace": 2
   },
   "High School Girls' 4x400 Philadelphia Area": {
     "leg": 4,
@@ -1247,6 +1287,16 @@
     "splitStr": "51.42",
     "splitTime": 51.41900000000001,
     "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's Sprint Medley Championship of America (Leg 3)": {
+    "leg": 3,
+    "team": "Temple",
+    "name": "Marissa  White",
+    "year": "2022",
+    "splitStr": "0.34",
+    "splitTime": -128.654,
+    "startPlace": 3,
     "endPlace": 1
   },
   "College Women's 4x400 College (Heats)": {
@@ -1286,6 +1336,16 @@
     "year": "2022",
     "splitStr": "48.97",
     "splitTime": 0,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Corporate Distance Medley (Leg 2)": {
+    "leg": 2,
+    "team": "Merck A",
+    "name": "Elizabeth Chikotas",
+    "year": "2022",
+    "splitStr": "1:01.69",
+    "splitTime": 61.68900000000002,
     "startPlace": 2,
     "endPlace": 2
   },

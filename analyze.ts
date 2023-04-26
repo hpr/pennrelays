@@ -64,7 +64,7 @@ function getFrequents() {
   for (const year in series) {
     console.log(year);
     for (const eventId in series[year].MeetEvents) {
-      const event = series[year].MeetEvents[eventId];
+      const event = series[year].MeetEvents[eventId]
       for (const teamId in event.ED) {
         for (const legId in event.ED[teamId].RRD) {
           const leg = event.ED[teamId].RRD[legId];
@@ -73,6 +73,8 @@ function getFrequents() {
             const splitStr = split.LS ?? split.CS;
             const prevSplit = Object.values(event.ED[teamId].SPD).find((spd) => spd.L === leg.L - 1);
             const splitTime = split.CSM - (prevSplit?.CSM ?? 0);
+            let eventName = event.N.replace(/ \(\d+\)$/, '');
+            if (eventName.includes('Medley')) eventName += ` (Leg ${leg.L})`;
             const splitObj = {
               leg: split.L,
               team: leg.A.A,
@@ -83,9 +85,9 @@ function getFrequents() {
               startPlace: prevSplit?.P ?? 'N/A',
               endPlace: split.P,
             };
-            splitRecords[event.N] ??= splitObj;
-            if (splitTime < splitRecords[event.N].splitTime) {
-              splitRecords[event.N] = splitObj;
+            splitRecords[eventName] ??= splitObj;
+            if (splitTime < splitRecords[eventName].splitTime) {
+              splitRecords[eventName] = splitObj;
             }
           }
           // athletes[leg.A.ID] ??= [];
