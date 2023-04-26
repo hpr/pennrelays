@@ -1,4 +1,1528 @@
 {
+  "HSG 4x800 Small Schools ": {
+    "leg": 4,
+    "team": "Immaculate Heart",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2:30.51",
+    "splitTime": 0,
+    "startPlace": 16,
+    "endPlace": 12
+  },
+  "HSG 4x800 Large Schools ": {
+    "leg": 2,
+    "team": "Sachem East",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2:19.71",
+    "splitTime": 0,
+    "startPlace": 16,
+    "endPlace": 6
+  },
+  "HSG 4x400 ": {
+    "leg": 4,
+    "team": "Agnes Irwin",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2.50",
+    "splitTime": -63.620000000000005,
+    "startPlace": 8,
+    "endPlace": 1
+  },
+  "HSG 4x400 Independent Prep School": {
+    "leg": 2,
+    "team": "St. Catherine’s",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "57.07",
+    "splitTime": 57.069,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Prep Prep School": {
+    "leg": 3,
+    "team": "IMG Academy",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "55.97",
+    "splitTime": 55.96800000000002,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Philadelphia Academic ": {
+    "leg": 3,
+    "team": "The Baldwin School",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "57.52",
+    "splitTime": 57.51299999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Central ": {
+    "leg": 2,
+    "team": "Upper Darby",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "57.56",
+    "splitTime": 57.559000000000005,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "HSG 4x400 Suburban A ": {
+    "leg": 4,
+    "team": "Penn Wood",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "56.17",
+    "splitTime": 56.162000000000006,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Suburban ChesMont ": {
+    "leg": 2,
+    "team": "Coatesville",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "57.43",
+    "splitTime": 57.426,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Suburban National ": {
+    "leg": 4,
+    "team": "North Penn",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "54.79",
+    "splitTime": 54.79000000000002,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Suburban American ": {
+    "leg": 2,
+    "team": "Norristown",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "55.64",
+    "splitTime": 55.635000000000005,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HSG 4x400 Northern Delaware ": {
+    "leg": 4,
+    "team": "Tatnall",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "56.79",
+    "splitTime": 56.785,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 South Jersey Small ": {
+    "leg": 2,
+    "team": "Clayton",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "54.24",
+    "splitTime": 54.239000000000004,
+    "startPlace": 14,
+    "endPlace": 3
+  },
+  "HSG 4x400 South Jersey Large ": {
+    "leg": 2,
+    "team": "Cherokee",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2.52",
+    "splitTime": -187.097,
+    "startPlace": 14,
+    "endPlace": 1
+  },
+  "HSG 4x400 Philadelphia Catholic ": {
+    "leg": 2,
+    "team": "Neumann-Goretti",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "55.94",
+    "splitTime": 55.931000000000004,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSG 4x400 Philadelphia Public ": {
+    "leg": 3,
+    "team": "Paul Robeson",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "56.34",
+    "splitTime": 56.331999999999994,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Core Power CW DMR Championship": {
+    "leg": 2,
+    "team": "Columbia",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "52.93",
+    "splitTime": 52.922000000000025,
+    "startPlace": 5,
+    "endPlace": 4
+  },
+  "CW Distance Medley College  (Leg 1)": {
+    "leg": 1,
+    "team": "Oklahoma",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "3:33.64",
+    "splitTime": 213.64,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "CW Distance Medley College  (Leg 2)": {
+    "leg": 2,
+    "team": "St. Norbert",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "52.60",
+    "splitTime": 52.599999999999966,
+    "startPlace": 12,
+    "endPlace": 4
+  },
+  "CW Distance Medley College  (Leg 3)": {
+    "leg": 3,
+    "team": "Temple",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2:10.31",
+    "splitTime": 0,
+    "startPlace": 19,
+    "endPlace": 2
+  },
+  "CW Distance Medley College  (Leg 4)": {
+    "leg": 4,
+    "team": "James Madison",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "4:45.07",
+    "splitTime": 285.06999999999994,
+    "startPlace": 15,
+    "endPlace": 9
+  },
+  "Nike HSG 3000m": {
+    "leg": 1,
+    "team": "Lawson",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "38.57",
+    "splitTime": 38.564,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Nike HSG Mile": {
+    "leg": 3,
+    "team": "Salis",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:07.69",
+    "splitTime": 67.68999999999997,
+    "startPlace": 6,
+    "endPlace": 1
+  },
+  "Power99 HSG DMR Championship": {
+    "leg": 2,
+    "team": "Granville",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "54.46",
+    "splitTime": 54.45300000000003,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "CW 4x400 ": {
+    "leg": 2,
+    "team": "Kingsborough CC",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "58.34",
+    "splitTime": -5.206999999999994,
+    "startPlace": 10,
+    "endPlace": 1
+  },
+  "CW 4x400 CTC ": {
+    "leg": 2,
+    "team": "Adelphi",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "57.58",
+    "splitTime": 57.57500000000002,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "CW 4x400 Centennial/MAC ": {
+    "leg": 3,
+    "team": "Johns Hopkins",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "58.27",
+    "splitTime": 58.264999999999986,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "HSB 4x800 Small Schools ": {
+    "leg": 4,
+    "team": "Oxon Hill",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:50.49",
+    "splitTime": 110.48200000000003,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSB 4x800 Large Schools ": {
+    "leg": 4,
+    "team": "Old Bridge",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:51.66",
+    "splitTime": 111.65499999999997,
+    "startPlace": 9,
+    "endPlace": 6
+  },
+  "Grace Foods HSG 4x800 CoA": {
+    "leg": 4,
+    "team": "Edwin Allen",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2:08.69",
+    "splitTime": 128.68599999999998,
+    "startPlace": 5,
+    "endPlace": 2
+  },
+  "CM DMR ": {
+    "leg": 2,
+    "team": "New Hampshire",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "47.51",
+    "splitTime": 47.504999999999995,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "CM 4x400 ": {
+    "leg": 3,
+    "team": "Essex CC",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "49.23",
+    "splitTime": 0,
+    "startPlace": 7,
+    "endPlace": 7
+  },
+  "CM 4x400 CTC ": {
+    "leg": 2,
+    "team": "Montclair State",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.14",
+    "splitTime": 48.137,
+    "startPlace": 7,
+    "endPlace": 4
+  },
+  "CM 4x400 Pop Haddleton MAC ": {
+    "leg": 2,
+    "team": "Stevenson",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "47.15",
+    "splitTime": 47.14000000000001,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "PECO CM DMR CoA": {
+    "leg": 2,
+    "team": "Oregon",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "45.58",
+    "splitTime": 45.577,
+    "startPlace": 5,
+    "endPlace": 1
+  },
+  "Grace Foods HSG 4x400 CoA": {
+    "leg": 3,
+    "team": "Union Catholic",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "50.37",
+    "splitTime": 50.369,
+    "startPlace": 6,
+    "endPlace": 3
+  },
+  "IBX HSB DMR CoA": {
+    "leg": 2,
+    "team": "Council Rock North",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "47.84",
+    "splitTime": 47.831999999999994,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "MM 4x400 50+ ": {
+    "leg": 4,
+    "team": "Chubb 1",
+    "name": "Unknown",
+    "year": "2017",
+    "splitTime": null,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "MW 4x400 40+ ": {
+    "team": "Athena W40",
+    "name": "Unknown",
+    "year": "2017",
+    "splitTime": null,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 10K Racewalk ": {
+    "leg": 25,
+    "team": "Bellavance",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:41.76",
+    "splitTime": 101.75599999999986,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Women's 5K Racewalk ": {
+    "leg": 13,
+    "team": "Jordan",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2:19.17",
+    "splitTime": 0,
+    "startPlace": 24,
+    "endPlace": 16
+  },
+  "HSB 4x400 ": {
+    "leg": 2,
+    "team": "Robert E. Lee",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "51.63",
+    "splitTime": -53.33699999999999,
+    "startPlace": 9,
+    "endPlace": 8
+  },
+  "HSB 4x400 Independent ": {
+    "leg": 4,
+    "team": "Loomis Chaffee",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "52.13",
+    "splitTime": 52.121999999999986,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "PECO HSB 4x400 Inter-Ac ": {
+    "leg": 4,
+    "team": "Haverford School",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "49.74",
+    "splitTime": 49.738999999999976,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "HSB 4x400 Central ": {
+    "leg": 4,
+    "team": "Lower Merion",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.03",
+    "splitTime": 48.024,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "HSB 4x400 Suburban A ": {
+    "leg": 3,
+    "team": "Glen Mills",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.25",
+    "splitTime": 48.246999999999986,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSB 4x400 Suburban ChesMont ": {
+    "leg": 3,
+    "team": "Valley Forge Military",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:00.28",
+    "splitTime": 0,
+    "startPlace": 14,
+    "endPlace": 13
+  },
+  "HSB 4x400 Suburban National ": {
+    "leg": 2,
+    "team": "Pennridge",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.39",
+    "splitTime": 48.383,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HSB 4x400 Suburban American ": {
+    "leg": 4,
+    "team": "Harry S Truman",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.46",
+    "splitTime": 48.45200000000003,
+    "startPlace": 8,
+    "endPlace": 6
+  },
+  "HSB 4x400 Northern Delaware ": {
+    "leg": 4,
+    "team": "Concord",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "56.78",
+    "splitTime": 0,
+    "startPlace": 16,
+    "endPlace": 14
+  },
+  "HSB 4x400 South Jersey Small ": {
+    "leg": 4,
+    "team": "Haddonfield Memorial",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.72",
+    "splitTime": 48.71600000000001,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSB 4x400 South Jersey Large ": {
+    "leg": 2,
+    "team": "Moorestown",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "50.54",
+    "splitTime": 0,
+    "startPlace": 13,
+    "endPlace": 4
+  },
+  "HSB 4x400 Philadelphia Catholic ": {
+    "leg": 4,
+    "team": "St. Joseph's Prep",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "47.61",
+    "splitTime": 47.608000000000004,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSB 4x400 Philadelphia Public ": {
+    "leg": 2,
+    "team": "Overbrook",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.71",
+    "splitTime": 48.705000000000005,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "USA vs. the World Men's 4x400 ": {
+    "leg": 3,
+    "team": "Jamaica",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "45.13",
+    "splitTime": 45.127999999999986,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "USA vs. the World Women's 4x400 ": {
+    "leg": 3,
+    "team": "USA",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "50.96",
+    "splitTime": 50.95400000000001,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Grace Foods HSB 4x800 CoA": {
+    "leg": 4,
+    "team": "St. Jago",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:51.32",
+    "splitTime": 111.31700000000001,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "US Marines CW 4x800 CoA": {
+    "leg": 2,
+    "team": "Villanova",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "2:03.62",
+    "splitTime": 123.61100000000002,
+    "startPlace": 7,
+    "endPlace": 1
+  },
+  "US Marines CM 4x800 CoA": {
+    "leg": 3,
+    "team": "Virginia Tech",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "1:46.95",
+    "splitTime": 106.94699999999997,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HSB 4x400 Philadelphia Area ": {
+    "leg": 2,
+    "team": "Pennsauken",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "47.43",
+    "splitTime": 47.427,
+    "startPlace": 8,
+    "endPlace": 5
+  },
+  "HSG 4x400 Philadelphia Area ": {
+    "leg": 4,
+    "team": "North Penn",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "52.88",
+    "splitTime": 52.87700000000001,
+    "startPlace": 4,
+    "endPlace": 4
+  },
+  "4x400 40+": {
+    "leg": 4,
+    "team": "USA Masters",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "48.27",
+    "splitTime": 48.263000000000005,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Grace Foods HSB 4x400 CoA": {
+    "leg": 4,
+    "team": "Calabar",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "46.13",
+    "splitTime": 46.125,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "CW 4x400 College ": {
+    "leg": 3,
+    "team": "Western Michigan",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "51.92",
+    "splitTime": 51.918000000000006,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "CM 4x400 College ": {
+    "leg": 3,
+    "team": "St. Augustine's",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "45.15",
+    "splitTime": 45.149,
+    "startPlace": 9,
+    "endPlace": 5
+  },
+  "CW 4x400 ECAC ": {
+    "leg": 2,
+    "team": "Liberty",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "53.50",
+    "splitTime": 53.49799999999999,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Core Power CW 4x400 CoA": {
+    "leg": 3,
+    "team": "Oregon",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "51.03",
+    "splitTime": 51.02299999999997,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "CM 4x400 IC4A ": {
+    "leg": 3,
+    "team": "St. Joseph's",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "46.76",
+    "splitTime": 46.75399999999999,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "Core Power CM 4x400 CoA": {
+    "leg": 2,
+    "team": "Auburn",
+    "name": "Unknown",
+    "year": "2017",
+    "splitStr": "44.82",
+    "splitTime": 44.81100000000001,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Girls 4x400": {
+    "leg": 2,
+    "team": "Hydel",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "52.25",
+    "splitTime": 52.25,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Girls 4x400 Prep Independent": {
+    "leg": 4,
+    "team": "Success Academy",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "56.53",
+    "splitTime": 56.524,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Girls 4x400 Prep": {
+    "leg": 1,
+    "team": "St. Catherine’s",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "58.05",
+    "splitTime": 58.05,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Girls 4x400 Philadelphia Academic": {
+    "leg": 4,
+    "team": "Springside",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "56.29",
+    "splitTime": 56.28899999999999,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "Girls 4x400 Central": {
+    "leg": 2,
+    "team": "Penncrest",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "58.15",
+    "splitTime": 58.149,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Girls 4x400 Suburban A": {
+    "leg": 4,
+    "team": "Penn Wood",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "57.68",
+    "splitTime": 57.67499999999998,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Girls 4x400 Suburban ChesMont": {
+    "leg": 4,
+    "team": "Coatesville",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "57.60",
+    "splitTime": 57.593999999999994,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Girls 4x400 Suburban National": {
+    "leg": 4,
+    "team": "North Penn",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "55.78",
+    "splitTime": 55.77199999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Girls 4x400 Suburban American": {
+    "leg": 4,
+    "team": "Cheltenham",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "56.00",
+    "splitTime": 55.99200000000002,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Girls 4x400 Northern Delaware": {
+    "leg": 4,
+    "team": "Tatnall",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "56.45",
+    "splitTime": 56.441,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Girls 4x400 South Jersey Small": {
+    "leg": 4,
+    "team": "Audubon",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "58.50",
+    "splitTime": 58.49199999999999,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "Girls 4x400 South Jersey Large": {
+    "leg": 1,
+    "team": "Rancocas Valley",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "57.01",
+    "splitTime": 57.002,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Girls 4x400 Philadelphia Catholic": {
+    "leg": 2,
+    "team": "Neumann-Goretti",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "55.57",
+    "splitTime": 55.569,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Girls 4x400 Philadelphia Public": {
+    "leg": 1,
+    "team": "Central",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "59.29",
+    "splitTime": 59.288,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's Distance Medley (Leg 1)": {
+    "leg": 1,
+    "team": "Villanova",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "3:21.86",
+    "splitTime": 201.859,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's Distance Medley (Leg 2)": {
+    "leg": 2,
+    "team": "Clemson",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "53.21",
+    "splitTime": 53.20099999999999,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "Women's Distance Medley (Leg 3)": {
+    "leg": 3,
+    "team": "Notre Dame",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "2:06.86",
+    "splitTime": 126.851,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "Women's Distance Medley (Leg 4)": {
+    "leg": 4,
+    "team": "Notre Dame",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "4:34.02",
+    "splitTime": 274.01399999999995,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "Women's Distance Medley  (Leg 4)": {
+    "leg": 4,
+    "team": "Temple",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "11:34.63",
+    "splitTime": 694.629,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Girls 3000m Championship": {
+    "leg": 1,
+    "team": "Dana Lynch",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "37.04",
+    "splitTime": 37.034,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Girls Mile Championship": {
+    "leg": 5,
+    "team": "Victoria Starcher",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "19.22",
+    "splitTime": 19.218000000000018,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Girls Distance Medley (Leg 1)": {
+    "leg": 1,
+    "team": "Friends' Central",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "3:37.04",
+    "splitTime": 217.034,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Girls Distance Medley (Leg 2)": {
+    "leg": 2,
+    "team": "Benjamin Cardozo",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "57.52",
+    "splitTime": 57.51599999999999,
+    "startPlace": 5,
+    "endPlace": 5
+  },
+  "Girls Distance Medley (Leg 3)": {
+    "leg": 3,
+    "team": "Benjamin Cardozo",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "2:11.52",
+    "splitTime": 131.519,
+    "startPlace": 5,
+    "endPlace": 1
+  },
+  "Girls Distance Medley (Leg 4)": {
+    "leg": 4,
+    "team": "Saratoga Springs",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "4:49.22",
+    "splitTime": 289.218,
+    "startPlace": 7,
+    "endPlace": 1
+  },
+  "Women's 4x400": {
+    "leg": 4,
+    "team": "Oklahoma",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "57.75",
+    "splitTime": 0,
+    "startPlace": 4,
+    "endPlace": 4
+  },
+  "Women's 4x400 CTC": {
+    "leg": 4,
+    "team": "New Haven",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "56.37",
+    "splitTime": 56.36200000000002,
+    "startPlace": 6,
+    "endPlace": 2
+  },
+  "Women's 4x400 Centennial/MAC": {
+    "leg": 2,
+    "team": "Messiah",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "57.67",
+    "splitTime": 57.663999999999994,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "Men's 3000m Steeplechase": {
+    "leg": 1,
+    "team": "Travis Mahoney ",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "38.75",
+    "splitTime": 38.75,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's 3000m Steeplechase": {
+    "leg": 1,
+    "team": "Autumn Eastman",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "43.73",
+    "splitTime": 43.729,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's 3000m": {
+    "leg": 1,
+    "team": "Catarina Rocha",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "36.21",
+    "splitTime": 36.209,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's 5000m": {
+    "leg": 10,
+    "team": "Nadia Saponara",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "0.02",
+    "splitTime": 0.015000000000100044,
+    "startPlace": 22,
+    "endPlace": 16
+  },
+  "Men's 5000m": {
+    "leg": 7,
+    "team": "Clint McKelvey",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "0.00",
+    "splitTime": 0,
+    "startPlace": 9,
+    "endPlace": 7
+  },
+  "Boys 4x800 Small Schools": {
+    "leg": 2,
+    "team": "St. Elizabeth Tech",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:55.41",
+    "splitTime": 115.40899999999999,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Boys 4x800 Large Schools": {
+    "leg": 2,
+    "team": "Jamaica College",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:53.47",
+    "splitTime": 113.463,
+    "startPlace": 6,
+    "endPlace": 2
+  },
+  "Girls 4x800": {
+    "leg": 2,
+    "team": "Holmwood Tech",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "2:08.54",
+    "splitTime": 128.536,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Men's Distance Medley (Leg 1)": {
+    "leg": 1,
+    "team": "Princeton",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "2:56.78",
+    "splitTime": 176.779,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's Distance Medley (Leg 2)": {
+    "leg": 2,
+    "team": "Villanova",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "46.48",
+    "splitTime": 46.47200000000001,
+    "startPlace": 6,
+    "endPlace": 2
+  },
+  "Men's Distance Medley (Leg 3)": {
+    "leg": 3,
+    "team": "Indiana",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:47.01",
+    "splitTime": 107.00799999999998,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Men's Distance Medley (Leg 4)": {
+    "leg": 4,
+    "team": "Notre Dame",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "3:58.69",
+    "splitTime": 238.69,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "Men's 4x400 (Heats)": {
+    "leg": 4,
+    "team": "Auburn",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "44.87",
+    "splitTime": 44.863999999999976,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Men's 4x400 CTC": {
+    "leg": 4,
+    "team": "St. Thomas Aquinas",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "47.10",
+    "splitTime": 47.09699999999998,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "Men's 4x400 Pop Haddleton MAC": {
+    "leg": 4,
+    "team": "Widener",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "47.90",
+    "splitTime": 47.899,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Girls 4x400 Championship of America": {
+    "leg": 3,
+    "team": "Hydel",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "53.12",
+    "splitTime": 53.119,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Boys Distance Medley (Leg 1)": {
+    "leg": 1,
+    "team": "Hopewell Valley",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "3:02.69",
+    "splitTime": 182.686,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Boys Distance Medley (Leg 2)": {
+    "leg": 2,
+    "team": "Christian Brothers",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "48.05",
+    "splitTime": 48.043000000000006,
+    "startPlace": 5,
+    "endPlace": 1
+  },
+  "Boys Distance Medley (Leg 3)": {
+    "leg": 3,
+    "team": "Northport",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:54.69",
+    "splitTime": 114.685,
+    "startPlace": 5,
+    "endPlace": 2
+  },
+  "Boys Distance Medley (Leg 4)": {
+    "leg": 4,
+    "team": "Hopewell Valley",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "4:07.57",
+    "splitTime": 247.56999999999994,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Boys Mile": {
+    "team": "Kieran McDermott",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:02.18",
+    "splitTime": 62.172,
+    "startPlace": "N/A"
+  },
+  "Boys 3000m Championship": {
+    "leg": 1,
+    "team": "Rusty Kujdych",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "31.74",
+    "splitTime": 31.735,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 5k Racewalk": {
+    "leg": 1,
+    "team": "Anthony Peters",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "47.45",
+    "splitTime": 47.45,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Masters Men's 5k Racewalk": {
+    "leg": 1,
+    "team": "Dmitry Babenko",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "56.16",
+    "splitTime": 56.153,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Junior Men's 5k Racewalk": {
+    "leg": 1,
+    "team": "Clayton Stoil",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "52.71",
+    "splitTime": 52.71,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Girls 5K Racewalk": {
+    "leg": 2,
+    "team": "Sofia Khalek",
+    "name": "Unknown",
+    "year": "2018",
+    "splitTime": null,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's 5K Racewalk": {
+    "leg": 1,
+    "team": "Taylor Ewert",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "50.44",
+    "splitTime": 50.44,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Boys 4x400": {
+    "leg": 3,
+    "team": "Calabar",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "44.84",
+    "splitTime": 44.833,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Boys Prep School 4x400 Independent": {
+    "leg": 4,
+    "team": "Loomis Chaffee",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "49.60",
+    "splitTime": 49.59300000000002,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Boys Prep School 4x400": {
+    "leg": 4,
+    "team": "Westtown School",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "47.49",
+    "splitTime": 47.482,
+    "startPlace": 15,
+    "endPlace": 14
+  },
+  "Boys 4x400 Inter-Ac": {
+    "leg": 4,
+    "team": "Haverford School",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "48.31",
+    "splitTime": 48.30500000000001,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Boys 4x400 Central": {
+    "leg": 4,
+    "team": "Garnet Valley",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "49.14",
+    "splitTime": 49.131,
+    "startPlace": 8,
+    "endPlace": 6
+  },
+  "Boys 4x400 Suburban A": {
+    "leg": 4,
+    "team": "Chester",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "49.94",
+    "splitTime": 49.932000000000016,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Boys 4x400 Suburban B": {
+    "leg": 4,
+    "team": "Girard College",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "49.26",
+    "splitTime": 49.257000000000005,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "Boys 4x400 Suburban ChesMont": {
+    "leg": 2,
+    "team": "Downingtown East",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "48.96",
+    "splitTime": 48.952,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Boys 4x400 Suburban National": {
+    "leg": 4,
+    "team": "Pennridge",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "48.45",
+    "splitTime": 48.440999999999974,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Boys 4x400 Suburban American": {
+    "leg": 4,
+    "team": "Upper Dublin",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "48.00",
+    "splitTime": 48,
+    "startPlace": 7,
+    "endPlace": 6
+  },
+  "Boys 4x400 Northern Delaware": {
+    "leg": 4,
+    "team": "Alexis I. duPont",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "49.98",
+    "splitTime": 49.97400000000002,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Boys 4x400 South Jersey Small": {
+    "leg": 4,
+    "team": "Camden",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "47.84",
+    "splitTime": 47.839999999999975,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Boys 4x400 South Jersey Large": {
+    "leg": 4,
+    "team": "Rancocas Valley",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "49.62",
+    "splitTime": 49.611999999999995,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "USA vs. the World Men's 4x400": {
+    "leg": 3,
+    "team": "Bahamas",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "44.29",
+    "splitTime": 44.286,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "USA vs. the World Women's 4x400": {
+    "leg": 3,
+    "team": "USA Red",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "51.38",
+    "splitTime": 51.37299999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Women's Mile": {
+    "leg": 5,
+    "team": "Charlene Lipsey",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "17.30",
+    "splitTime": 17.292,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Men's Mile": {
+    "leg": 5,
+    "team": "Johnny Gregorek",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "15.94",
+    "splitTime": 15.938000000000017,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Boys 4x800": {
+    "leg": 4,
+    "team": "St. Elizabeth Tech",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:48.47",
+    "splitTime": 108.46500000000003,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "Women's 4x800": {
+    "leg": 4,
+    "team": "Villanova",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "2:02.63",
+    "splitTime": 122.62599999999998,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Women's 4x800 ": {
+    "leg": 4,
+    "team": "UMBC",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "2:12.19",
+    "splitTime": 132.18899999999996,
+    "startPlace": 7,
+    "endPlace": 8
+  },
+  "Men's 4x800": {
+    "leg": 3,
+    "team": "Mississippi State",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "1:46.00",
+    "splitTime": 105.99099999999999,
+    "startPlace": 5,
+    "endPlace": 1
+  },
+  "Boys 4x400 Philadelphia Area": {
+    "leg": 4,
+    "team": "Harry S Truman",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "47.73",
+    "splitTime": 47.724999999999994,
+    "startPlace": 8,
+    "endPlace": 4
+  },
+  "Girls 4x400 Philadelphia Area": {
+    "leg": 2,
+    "team": "Neumann-Goretti",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "54.69",
+    "splitTime": 54.685,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Masters Men's 4x400 40 and older": {
+    "leg": 3,
+    "team": "Southwest Sprinters (Gold)",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "51.24",
+    "splitTime": 51.23599999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Women's 4x400 ": {
+    "leg": 3,
+    "team": "Eastern Michigan",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "53.09",
+    "splitTime": 53.08500000000001,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Men's 4x400 ": {
+    "leg": 3,
+    "team": "Troy",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "45.94",
+    "splitTime": 45.93600000000001,
+    "startPlace": 7,
+    "endPlace": 6
+  },
+  "Women's 4x400 Eastern": {
+    "leg": 3,
+    "team": "Morgan State",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "53.92",
+    "splitTime": 53.91499999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Men's 4x400 Eastern": {
+    "leg": 3,
+    "team": "Monroe",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "45.50",
+    "splitTime": 45.498999999999995,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "Men's 4x400": {
+    "leg": 3,
+    "team": "Houston",
+    "name": "Unknown",
+    "year": "2018",
+    "splitStr": "43.38",
+    "splitTime": 43.374000000000024,
+    "startPlace": 1,
+    "endPlace": 1
+  },
   "HS Girls' 4x800 Small Schools": {
     "leg": 2,
     "team": "Edwin Allen (JAM)",
@@ -239,6 +1763,26 @@
     "startPlace": 14,
     "endPlace": 6
   },
+  "HS Girls' 3000m Championship": {
+    "leg": 1,
+    "team": "Julia Trethaway",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "35.68",
+    "splitTime": 35.672,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' Mile Championship": {
+    "leg": 3,
+    "team": "Victoria Starcher",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "1:04.73",
+    "splitTime": 64.727,
+    "startPlace": 2,
+    "endPlace": 1
+  },
   "HS Girls' Distance Medley Championship of America (Leg 1)": {
     "leg": 1,
     "team": "Saratoga Springs (NY)",
@@ -308,6 +1852,26 @@
     "splitTime": 56.322,
     "startPlace": 3,
     "endPlace": 2
+  },
+  "Women's 10,000m": {
+    "leg": 14,
+    "team": "Maura Linde",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "29.07",
+    "splitTime": 29.069999999999936,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "Men's 10,000m": {
+    "leg": 3,
+    "team": "Otto Kingstedt",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "1:08.65",
+    "splitTime": 68.65,
+    "startPlace": 14,
+    "endPlace": 11
   },
   "HS Boys' 4x800 Small Schools": {
     "leg": 1,
@@ -499,6 +2063,14 @@
     "startPlace": 3,
     "endPlace": 1
   },
+  "HS Boys' Mile Championship": {
+    "team": "Peralta",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "1:08.09",
+    "splitTime": 68.089,
+    "startPlace": "N/A"
+  },
   "College Women's Sprint Medley Championship of America (Leg 1)": {
     "leg": 1,
     "team": "Penn State",
@@ -607,6 +2179,16 @@
     "splitStr": "2:10.06",
     "splitTime": 130.05400000000003,
     "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 5K Racewalk": {
+    "leg": 1,
+    "team": "Ciara Durcan",
+    "name": "Unknown",
+    "year": "2019",
+    "splitStr": "52.49",
+    "splitTime": 52.486,
+    "startPlace": "N/A",
     "endPlace": 1
   },
   "HS Boys' 4x400": {
@@ -769,26 +2351,6 @@
     "startPlace": 5,
     "endPlace": 3
   },
-  "USA vs. the World Men's 4x400": {
-    "leg": 4,
-    "team": "Bahamas",
-    "name": "Alonzo Russell",
-    "year": "2019",
-    "splitStr": "44.89",
-    "splitTime": 44.88300000000001,
-    "startPlace": 5,
-    "endPlace": 3
-  },
-  "USA vs. the World Women's 4x400": {
-    "leg": 4,
-    "team": "Jamaica Green",
-    "name": "Tiffany James",
-    "year": "2019",
-    "splitStr": "51.78",
-    "splitTime": 51.78,
-    "startPlace": 3,
-    "endPlace": 2
-  },
   "College Women's 4x400 College": {
     "leg": 3,
     "team": "UMBC",
@@ -859,16 +2421,6 @@
     "startPlace": 9,
     "endPlace": 2
   },
-  "Masters Men's 4x400 40 and older": {
-    "leg": 1,
-    "team": "Southwest Sprinters",
-    "name": "Ederick Clark",
-    "year": "2019",
-    "splitStr": "52.08",
-    "splitTime": 52.072,
-    "startPlace": "N/A",
-    "endPlace": 1
-  },
   "College Women's 4x400 Eastern": {
     "leg": 4,
     "team": "Penn State",
@@ -916,26 +2468,6 @@
     "year": "2019",
     "splitStr": "46.77",
     "splitTime": 46.76599999999999,
-    "startPlace": 2,
-    "endPlace": 1
-  },
-  "Women's 4x400": {
-    "leg": 4,
-    "team": "Moore Elite TC",
-    "name": "Kayla Charles",
-    "year": "2019",
-    "splitStr": "53.70",
-    "splitTime": 53.69900000000001,
-    "startPlace": 1,
-    "endPlace": 1
-  },
-  "Men's 4x400": {
-    "leg": 2,
-    "team": "New Horizon TC",
-    "name": "Cody Housen",
-    "year": "2019",
-    "splitStr": "47.05",
-    "splitTime": 47.04899999999999,
     "startPlace": 2,
     "endPlace": 1
   },
@@ -1139,6 +2671,106 @@
     "startPlace": 1,
     "endPlace": 1
   },
+  "High School Girls' Mile Championship": {
+    "leg": 1,
+    "team": "Juliette Whittaker",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "1:07.68",
+    "splitTime": 67.671,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "High School Girls' 3000m Championship": {
+    "leg": 1,
+    "team": "Angelina Perez",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "34.03",
+    "splitTime": 34.025,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's 1500m Championship": {
+    "leg": 1,
+    "team": "Nikhila Obbineni",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "50.37",
+    "splitTime": 50.37,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's 1500m Championship": {
+    "leg": 1,
+    "team": "Chris Weeks",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "42.91",
+    "splitTime": 42.907,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's 3000m Steeplechase Championship": {
+    "leg": 1,
+    "team": "Sasha Neglia",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "44.20",
+    "splitTime": 44.192,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's 3000m Steeplechase Championship": {
+    "leg": 1,
+    "team": "Scott Johnson",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "37.48",
+    "splitTime": 37.476,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's 5000m Championship": {
+    "leg": 1,
+    "team": "Maggie Maier",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "37.23",
+    "splitTime": 37.227,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's 5000m Championship": {
+    "leg": 1,
+    "team": "Luke Johnson",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "31.15",
+    "splitTime": 31.142,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's 10,000m Championship": {
+    "leg": 25,
+    "team": "Andrea Kuhn",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "1:11.87",
+    "splitTime": 71.86899999999969,
+    "startPlace": 5,
+    "endPlace": 5
+  },
+  "College Men's 10,000m Championship": {
+    "leg": 25,
+    "team": "Evan Brennan",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "1:01.74",
+    "splitTime": 61.738000000000056,
+    "startPlace": 2,
+    "endPlace": 1
+  },
   "High School Boys' 4x800 Heats ": {
     "leg": 4,
     "team": "Greencastle-Antrim (PA)",
@@ -1269,6 +2901,26 @@
     "startPlace": 8,
     "endPlace": 2
   },
+  "High School Boys' Mile Championship": {
+    "leg": 4,
+    "team": "Aiden Neal",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "59.14",
+    "splitTime": 59.136000000000024,
+    "startPlace": 6,
+    "endPlace": 4
+  },
+  "High School Boys' 3000m Championship": {
+    "leg": 1,
+    "team": "Luke Coffin",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "32.16",
+    "splitTime": 32.156,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
   "High School Girls' 4x400 Philadelphia Area": {
     "leg": 4,
     "team": "Friends' Central (PA)",
@@ -1349,6 +3001,46 @@
     "startPlace": 2,
     "endPlace": 2
   },
+  "Women's 800m Elite": {
+    "leg": 1,
+    "team": "Madeline Kopp",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "57.94",
+    "splitTime": 57.939,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 800m Elite": {
+    "leg": 1,
+    "team": "Alex Amankwah",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "51.03",
+    "splitTime": 51.025,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's 3000m Steeplechase Elite": {
+    "leg": 1,
+    "team": "Carmen Graves",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "43.13",
+    "splitTime": 43.121,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 3000m Steeplechase Elite": {
+    "leg": 1,
+    "team": "Colin Daly",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "36.79",
+    "splitTime": 36.787,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
   "Men's 4xMile Elite": {
     "leg": 4,
     "team": "On Athletics Club",
@@ -1357,6 +3049,66 @@
     "splitStr": "3:55.18",
     "splitTime": 235.17399999999998,
     "startPlace": 2,
+    "endPlace": 1
+  },
+  "Women's 5000m Open/Club": {
+    "leg": 1,
+    "team": "Grace Moore",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "35.43",
+    "splitTime": 35.423,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 5000m Open/Club": {
+    "leg": 1,
+    "team": "Dage Minors",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "32.23",
+    "splitTime": 32.221,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "High School Girls' 5K Racewalk": {
+    "leg": 1,
+    "team": "Kyra Pellegrino",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "1:03.85",
+    "splitTime": 63.843,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 5k Racewalk Elite": {
+    "leg": 1,
+    "team": "Nick Christie",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "47.84",
+    "splitTime": 47.836,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Women's 5K Racewalk Elite": {
+    "leg": 1,
+    "team": "Natalia Alfonzo",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "54.47",
+    "splitTime": 54.464,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Junior Women's 5K Racewalk": {
+    "leg": 1,
+    "team": "Ciara Durcan",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "54.64",
+    "splitTime": 54.638,
+    "startPlace": "N/A",
     "endPlace": 1
   },
   "High School Boys' 4x400": {
@@ -1509,6 +3261,26 @@
     "startPlace": 11,
     "endPlace": 8
   },
+  "Women's 1500m Elite": {
+    "leg": 1,
+    "team": "Senna Ohlsson",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "47.01",
+    "splitTime": 47.008,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's Mile Elite": {
+    "leg": 4,
+    "team": "Callum Elson",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "55.88",
+    "splitTime": 55.87100000000001,
+    "startPlace": 3,
+    "endPlace": 1
+  },
   "College Men's 4x800 Championship of America": {
     "leg": 2,
     "team": "Ole Miss",
@@ -1517,6 +3289,26 @@
     "splitStr": "1:46.76",
     "splitTime": 106.75399999999999,
     "startPlace": 4,
+    "endPlace": 1
+  },
+  "Women's 600m Elite": {
+    "leg": 1,
+    "team": "Ajee' Wilson",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "26.01",
+    "splitTime": 26.002,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Men's 600m Elite": {
+    "leg": 1,
+    "team": "CJ Jones",
+    "name": "Unknown",
+    "year": "2022",
+    "splitStr": "23.58",
+    "splitTime": 23.571,
+    "startPlace": "N/A",
     "endPlace": 1
   },
   "High School Boys' 4x400 Championship of America": {

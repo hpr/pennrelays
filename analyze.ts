@@ -17,6 +17,15 @@ function mergeMeets() {
 }
 // mergeMeets();
 
+type Leg = {
+  L: number; // leg
+  A: {
+    ID: number;
+    A: string; // team
+    LN: string; // name?
+    N: string; // name w/ space at front?
+  };
+};
 type Series = {
   [year: number]: {
     Meta: {
@@ -30,16 +39,11 @@ type Series = {
         S: string; // status
         ED: {
           [teamId: string]: {
+            A: {
+              LN: string; // team name
+            };
             RRD: {
-              [legId: number]: {
-                L: number; // leg
-                A: {
-                  ID: number;
-                  A: string; // team
-                  LN: string; // name?
-                  N: string; // name w/ space at front?
-                };
-              };
+              [legId: number]: Leg;
             };
             SPD: {
               [splitId: number]: {
@@ -64,21 +68,22 @@ function getFrequents() {
   for (const year in series) {
     console.log(year);
     for (const eventId in series[year].MeetEvents) {
-      const event = series[year].MeetEvents[eventId]
+      const event = series[year].MeetEvents[eventId];
       for (const teamId in event.ED) {
-        for (const legId in event.ED[teamId].RRD) {
-          const leg = event.ED[teamId].RRD[legId];
-          const split = Object.values(event.ED[teamId].SPD ?? {}).find((spd) => spd.L === leg.L);
+        const teamName = event.ED[teamId].A.LN;
+        for (const legId in event.ED[teamId].SPD) {
+          const split = event.ED[teamId].SPD[legId];
+          const leg: Leg | undefined = Object.values(event.ED[teamId].RRD ?? {}).find((rrd) => rrd.L === split.L);
           if (split) {
             const splitStr = split.LS ?? split.CS;
-            const prevSplit = Object.values(event.ED[teamId].SPD).find((spd) => spd.L === leg.L - 1);
+            const prevSplit = Object.values(event.ED[teamId].SPD ?? {}).find((spd) => spd.L === split.L - 1);
             const splitTime = split.CSM - (prevSplit?.CSM ?? 0);
             let eventName = event.N.replace(/ \(\d+\)$/, '');
-            if (eventName.includes('Medley')) eventName += ` (Leg ${leg.L})`;
+            if (eventName.includes('Medley')) eventName += ` (Leg ${split.L})`;
             const splitObj = {
               leg: split.L,
-              team: leg.A.A,
-              name: leg.A.LN,
+              team: teamName,
+              name: leg?.A?.LN ?? 'Unknown',
               year,
               splitStr,
               splitTime,
