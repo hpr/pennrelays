@@ -1,0 +1,19 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "tsc --module nodenext --outDir build pr.ts && node build/pr"
+  },
+  "author": "",
+  "license": "AGPLv3-only",
+  "dependencies": {
+    "typescript": "^5.0.4",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.4",
+    "tsx": "^3.12.6"
+  }
+}
