@@ -37,6 +37,8 @@ type Series = {
         N: string; // event name
         T: string; // time
         S: string; // status
+        L: string; // level e.g. "HSB"
+        EID: string; // event ID e.g. "4x800"
         ED: {
           [teamId: string]: {
             A: {
@@ -78,8 +80,13 @@ function getFrequents() {
             const splitStr = split.LS ?? split.CS;
             const prevSplit = Object.values(event.ED[teamId].SPD ?? {}).find((spd) => spd.L === split.L - 1);
             const splitTime = split.CSM - (prevSplit?.CSM ?? 0);
-            let eventName = event.N.replace(/ \(\d+\)$/, '');
-            if (eventName.includes('Medley')) eventName += ` (Leg ${split.L})`;
+            const minTimes = {
+              '4x400': 40,
+              '4x800': 100,
+            };
+            if ((splitTime <= minTimes[event.EID] ?? 8) || isNaN(splitTime)) continue;
+            let eventName = `${event.L} ${event.EID}`;
+            if (eventName.includes('DMR') || eventName.includes('SMR')) eventName += ` (Leg ${split.L})`;
             const splitObj = {
               leg: split.L,
               team: teamName,
