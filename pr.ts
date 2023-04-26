@@ -1,4 +1,5 @@
 import WebSocket from 'ws';
+import fs from 'fs';
 
 const wsUrl = 'wss://s-usc1f-nss-2567.firebaseio.com/.ws?';
 const ns = 'franklin-f56f3';
@@ -36,10 +37,21 @@ const resp = (rt: string) =>
     route = rt;
   });
 
+let msg = '';
+let completeData: any = undefined;
 ws.on('message', (data) => {
-  const m = JSON.parse(data.toString());
-  console.log('received', m, m?.d?.b?.p, route);
-  if (m?.d?.b?.p === route) resolve(m);
+  msg += data.toString();
+  let m: Resp;
+  try {
+    m = JSON.parse(msg);
+    msg = '';
+    console.log('received', m, m?.d?.b?.p, route);
+    if (m?.d?.b?.p === route) completeData = m;
+    if (m?.d?.b?.s === 'ok') {
+      resolve(completeData);
+      completeData = undefined;
+    }
+  } catch {}
 });
 
 type Resp = {
@@ -47,18 +59,43 @@ type Resp = {
   d: {
     a: 'd';
     b: {
-      p: string;
-      d: any;
+      p?: string; // path / route
+      s?: 'ok'; // status
+      d: any; // data
     };
   };
 };
 const send = async (rt: string) => {
   ws.send(JSON.stringify({ t: 'd', d: { r: requestCount++, a: 'q', b: { p: rt, h: '' } } }));
-  const r = await resp(rt) as Resp;
-  return r.d?.b?.d;
+  console.log('sending', rt);
+  const r = (await resp(rt)) as Resp;
+  return r?.d?.b?.d;
+};
+
+const log = (...args: any[]) => console.dir(args, { depth: null });
+
+type MetaType = {
+  ID: number;
+  [k: string]: any;
 };
 
 ws.on('open', async () => {
-  console.log(await send('5527/Meta'));
-  console.dir(await send('5527/MeetEvents/101-1'), { depth: null });
+  const metas = JSON.parse(fs.readFileSync('./meets.json', 'utf-8'));
+  for (let meet = 1; meet <= 5527; meet++) {
+    console.log(meet);
+    if (metas[meet]) continue;
+    const fname = `./events/${meet}.json`;
+    if (fs.existsSync(fname)) continue;
+    const Meta: MetaType = await send(`${meet}/Meta`);
+    if (!Meta) {
+      console.log('skipping');
+      continue;
+    }
+    metas[meet] = Meta;
+    if (Object.values(Meta).some((val) => (val + '').toLowerCase().match(/penn ?relays/))) {
+      const MeetEvents = await send(`${meet}/MeetEvents`);
+      fs.writeFileSync(fname, JSON.stringify({ Meta, MeetEvents }));
+    }
+    fs.writeFileSync('./meets.json', JSON.stringify(metas));
+  }
 });
