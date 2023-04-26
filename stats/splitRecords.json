@@ -1,0 +1,1512 @@
+{
+  "HS Girls' 4x800 Small Schools": {
+    "leg": 2,
+    "team": "Edwin Allen (JAM)",
+    "name": "Jessica McLean",
+    "year": "2019",
+    "splitStr": "2:10.58",
+    "splitTime": 130.575,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Girls' 4x800 Large Schools": {
+    "leg": 2,
+    "team": "Shenendehowa (NY)",
+    "name": "Lily Digman",
+    "year": "2019",
+    "splitStr": "2:13.22",
+    "splitTime": 133.21699999999998,
+    "startPlace": 15,
+    "endPlace": 3
+  },
+  "HS Girls' 4x400 (117)": {
+    "leg": 4,
+    "team": "Pleasantville (NJ)",
+    "name": "Maya Harper",
+    "year": "2019",
+    "splitStr": "57.17",
+    "splitTime": 57.167,
+    "startPlace": 9,
+    "endPlace": 6
+  },
+  "HS Girls' 4x400 (118)": {
+    "leg": 1,
+    "team": "Notre Dame (NJ)",
+    "name": "Franny Owoh",
+    "year": "2019",
+    "splitStr": "59.93",
+    "splitTime": 59.924,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (119)": {
+    "leg": 4,
+    "team": "Marlboro (NJ)",
+    "name": "Hannah Brown",
+    "year": "2019",
+    "splitStr": "1:00.67",
+    "splitTime": 60.662000000000006,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "HS Girls' 4x400 (120)": {
+    "leg": 1,
+    "team": "Holy Angels (NJ)",
+    "name": "Eliza Hoover",
+    "year": "2019",
+    "splitStr": "57.18",
+    "splitTime": 57.173,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (121)": {
+    "leg": 4,
+    "team": "Newburgh Free (NY)",
+    "name": "Alondra Cruz Delgado",
+    "year": "2019",
+    "splitStr": "58.43",
+    "splitTime": 58.42999999999998,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (122)": {
+    "leg": 2,
+    "team": "Clement Howell (TKS)",
+    "name": "Alexia Prince",
+    "year": "2019",
+    "splitStr": "58.94",
+    "splitTime": 58.938,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 (123)": {
+    "leg": 2,
+    "team": "Central (MD)",
+    "name": "Jayla Housen",
+    "year": "2019",
+    "splitStr": "58.51",
+    "splitTime": 58.510000000000005,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 (124)": {
+    "leg": 4,
+    "team": "St. Dominic Academy (NJ)",
+    "name": "Logan Hart",
+    "year": "2019",
+    "splitStr": "59.19",
+    "splitTime": 59.18199999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (125)": {
+    "leg": 3,
+    "team": "Somerville (NJ)",
+    "name": "Sonia Purohit",
+    "year": "2019",
+    "splitStr": "1:00.97",
+    "splitTime": 60.960999999999984,
+    "startPlace": 5,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 (126)": {
+    "leg": 1,
+    "team": "Brentwood (NY)",
+    "name": "Donisha Jeanty",
+    "year": "2019",
+    "splitStr": "58.40",
+    "splitTime": 58.399,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (127)": {
+    "leg": 4,
+    "team": "Paint Branch (MD)",
+    "name": "Halimatou Dallo",
+    "year": "2019",
+    "splitStr": "59.00",
+    "splitTime": 58.996999999999986,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 (138)": {
+    "leg": 2,
+    "team": "Ridge (NJ)",
+    "name": "Jennifer Hodges",
+    "year": "2019",
+    "splitStr": "56.66",
+    "splitTime": 56.660000000000004,
+    "startPlace": 7,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (129)": {
+    "leg": 2,
+    "team": "Wise (MD)",
+    "name": "Jordan Mozie",
+    "year": "2019",
+    "splitStr": "57.36",
+    "splitTime": 57.35199999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (130)": {
+    "leg": 4,
+    "team": "Scotch Plains-Fanwood (NJ)",
+    "name": "Julia Jackson",
+    "year": "2019",
+    "splitStr": "59.08",
+    "splitTime": 59.071,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (131)": {
+    "leg": 2,
+    "team": "Twin Valley (PA)",
+    "name": "Morgan Mattia",
+    "year": "2019",
+    "splitStr": "59.09",
+    "splitTime": 59.086,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "HS Girls' 4x400 (132)": {
+    "leg": 4,
+    "team": "Sayreville War Memorial (NJ)",
+    "name": "Allison Prieto",
+    "year": "2019",
+    "splitStr": "57.37",
+    "splitTime": 57.361999999999995,
+    "startPlace": 11,
+    "endPlace": 7
+  },
+  "HS Girls' 4x400 (133)": {
+    "leg": 2,
+    "team": "DuVal (MD)",
+    "name": "Ijeoma Asoyne",
+    "year": "2019",
+    "splitStr": "57.57",
+    "splitTime": 57.568,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (134)": {
+    "leg": 1,
+    "team": "Kent Place (NJ)",
+    "name": "Grace Morris",
+    "year": "2019",
+    "splitStr": "56.28",
+    "splitTime": 56.276,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (135)": {
+    "leg": 4,
+    "team": "West Babylon (NY)",
+    "name": "Nadja Ashley",
+    "year": "2019",
+    "splitStr": "56.79",
+    "splitTime": 56.78800000000001,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (136)": {
+    "leg": 4,
+    "team": "Appoquinimink (DE)",
+    "name": "Julia Lloyd",
+    "year": "2019",
+    "splitStr": "58.03",
+    "splitTime": 58.024,
+    "startPlace": 8,
+    "endPlace": 8
+  },
+  "HS Girls' 4x400 (137)": {
+    "leg": 1,
+    "team": "Broad Run (VA)",
+    "name": "Kayla Hugg",
+    "year": "2019",
+    "splitStr": "56.12",
+    "splitTime": 56.115,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (139)": {
+    "leg": 4,
+    "team": "Montclair (NJ)",
+    "name": "Nyjah Young-Bey",
+    "year": "2019",
+    "splitStr": "57.40",
+    "splitTime": 57.399,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "HS Girls' 4x400 (140)": {
+    "leg": 2,
+    "team": "St. Catherine (JAM)",
+    "name": "Annakay Allen",
+    "year": "2019",
+    "splitStr": "54.18",
+    "splitTime": 54.17300000000001,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (141)": {
+    "leg": 2,
+    "team": "Massaponax (VA)",
+    "name": "Aaliyah Pyatt",
+    "year": "2019",
+    "splitStr": "54.90",
+    "splitTime": 54.892,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (142)": {
+    "leg": 4,
+    "team": "Holmdel (NJ)",
+    "name": "Sydney Goldson",
+    "year": "2019",
+    "splitStr": "57.19",
+    "splitTime": 57.18800000000002,
+    "startPlace": 8,
+    "endPlace": 5
+  },
+  "HS Girls' 4x400 (143)": {
+    "leg": 4,
+    "team": "South Lakes (VA)",
+    "name": "Hannah Waller",
+    "year": "2019",
+    "splitStr": "54.29",
+    "splitTime": 54.28800000000001,
+    "startPlace": 3,
+    "endPlace": 3
+  },
+  "HS Girls' 4x400 (144)": {
+    "leg": 2,
+    "team": "Mills Godwin (VA)",
+    "name": "Julie Freitas",
+    "year": "2019",
+    "splitStr": "53.86",
+    "splitTime": 53.85999999999999,
+    "startPlace": 7,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 (145)": {
+    "leg": 1,
+    "team": "Petersfield (JAM)",
+    "name": "Kayly Guthrie",
+    "year": "2019",
+    "splitStr": "54.13",
+    "splitTime": 54.127,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (146)": {
+    "leg": 2,
+    "team": "Holmwood Tech (JAM)",
+    "name": "Daniella Deer",
+    "year": "2019",
+    "splitStr": "54.36",
+    "splitTime": 54.358,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 (147)": {
+    "leg": 2,
+    "team": "Hydel (JAM)",
+    "name": "Garriel White",
+    "year": "2019",
+    "splitStr": "52.91",
+    "splitTime": 52.904,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Prep Independent": {
+    "leg": 4,
+    "team": "Success Academy (NY)",
+    "name": "Ronne Bailey",
+    "year": "2019",
+    "splitStr": "56.92",
+    "splitTime": 56.918000000000006,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Prep": {
+    "leg": 4,
+    "team": "Georgetown Day (DC)",
+    "name": "Ziyah Holman",
+    "year": "2019",
+    "splitStr": "54.02",
+    "splitTime": 54.02000000000001,
+    "startPlace": 6,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 Philadelphia Academic": {
+    "leg": 4,
+    "team": "St. Basil Academy (PA)",
+    "name": "Taylor Thomas",
+    "year": "2019",
+    "splitStr": "56.31",
+    "splitTime": 56.301000000000016,
+    "startPlace": 5,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 Central": {
+    "leg": 4,
+    "team": "Strath Haven (PA)",
+    "name": "Olivia Malley",
+    "year": "2019",
+    "splitStr": "57.20",
+    "splitTime": 57.19300000000001,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Suburban A": {
+    "leg": 2,
+    "team": "Penn Wood (PA)",
+    "name": "Elicis Moore",
+    "year": "2019",
+    "splitStr": "55.61",
+    "splitTime": 55.609,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Suburban ChesMont": {
+    "leg": 4,
+    "team": "Coatesville (PA)",
+    "name": "Arianna Eberly",
+    "year": "2019",
+    "splitStr": "56.05",
+    "splitTime": 56.04599999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Suburban National": {
+    "leg": 4,
+    "team": "North Penn (PA)",
+    "name": "Natalie Kwortnik ",
+    "year": "2019",
+    "splitStr": "56.67",
+    "splitTime": 56.66900000000001,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 Suburban American": {
+    "leg": 4,
+    "team": "Cheltenham (PA)",
+    "name": "Brianna Smith",
+    "year": "2019",
+    "splitStr": "55.23",
+    "splitTime": 55.22399999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Northern Delaware": {
+    "leg": 1,
+    "team": "Delcastle Tech (DE)",
+    "name": "Danielle Morgan",
+    "year": "2019",
+    "splitStr": "58.83",
+    "splitTime": 58.83,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 South Jersey Small": {
+    "leg": 4,
+    "team": "Pennsville (NJ)",
+    "name": "Kaitlyn Samuels",
+    "year": "2019",
+    "splitStr": "54.84",
+    "splitTime": 54.834,
+    "startPlace": 7,
+    "endPlace": 4
+  },
+  "HS Girls' 4x400 South Jersey Large": {
+    "leg": 2,
+    "team": "Winslow (NJ)",
+    "name": "Janeya Hammond",
+    "year": "2019",
+    "splitStr": "57.07",
+    "splitTime": 57.062000000000005,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "HS Girls' 4x400 Philadelphia Catholic": {
+    "leg": 4,
+    "team": "Neumann-Goretti (PA)",
+    "name": "Makayla Perry",
+    "year": "2019",
+    "splitStr": "54.76",
+    "splitTime": 54.75999999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Philadelphia Public": {
+    "leg": 1,
+    "team": "Martin Luther King (PA)",
+    "name": "Shynera Dorin",
+    "year": "2019",
+    "splitStr": "59.46",
+    "splitTime": 59.451,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's Distance Medley Championship of America": {
+    "leg": 2,
+    "team": "Penn",
+    "name": "Uchechi Nwogwugwu",
+    "year": "2019",
+    "splitStr": "52.22",
+    "splitTime": 52.214,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's Distance Medley College": {
+    "leg": 2,
+    "team": "Tennessee",
+    "name": "Uchechi Nwogwugwu",
+    "year": "2022",
+    "splitStr": "54.52",
+    "splitTime": 54.51999999999998,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Girls' Distance Medley Championship of America": {
+    "leg": 2,
+    "team": "Ridgewood (NJ)",
+    "name": "Katherine Muccio",
+    "year": "2019",
+    "splitStr": "56.79",
+    "splitTime": 56.781000000000006,
+    "startPlace": 9,
+    "endPlace": 6
+  },
+  "College Women's 4x400": {
+    "leg": 4,
+    "team": "Miami (Ohio)",
+    "name": "Olivia Bechtel",
+    "year": "2019",
+    "splitStr": "52.73",
+    "splitTime": 52.721000000000004,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Women's 4x400 CTC": {
+    "leg": 4,
+    "team": "Adelphi",
+    "name": "Victoria Major",
+    "year": "2019",
+    "splitStr": "56.14",
+    "splitTime": 56.13199999999998,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's 4x400 Centennial/MAC": {
+    "leg": 4,
+    "team": "Stevens Tech",
+    "name": "Gina Dello Russo",
+    "year": "2022",
+    "splitStr": "56.33",
+    "splitTime": 56.322,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "HS Boys' 4x800 Small Schools": {
+    "leg": 1,
+    "team": "Radnor (PA)",
+    "name": "Luke O'Malley",
+    "year": "2019",
+    "splitStr": "1:56.41",
+    "splitTime": 116.406,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "HS Boys' 4x800 Large Schools": {
+    "leg": 4,
+    "team": "Weddington (NC)",
+    "name": "Kyle Durham",
+    "year": "2019",
+    "splitStr": "1:53.44",
+    "splitTime": 113.43899999999996,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "HS Girls' 4x800 Championship of America": {
+    "leg": 2,
+    "team": "Edwin Allen (JAM)",
+    "name": "Kayan Green",
+    "year": "2019",
+    "splitStr": "2:11.21",
+    "splitTime": 131.20100000000002,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "College Men's Distance Medley": {
+    "leg": 2,
+    "team": "Tennessee",
+    "name": "Darryl Harris",
+    "year": "2019",
+    "splitStr": "47.21",
+    "splitTime": 47.204999999999984,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Men's 4x400 (Heats)": {
+    "leg": 4,
+    "team": "Virginia Tech",
+    "name": "Bashir Mosavel-Lo",
+    "year": "2019",
+    "splitStr": "44.68",
+    "splitTime": 44.67400000000001,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "College Men's 4x400 CTC": {
+    "leg": 4,
+    "team": "St. Thomas Aquinas",
+    "name": "St. Jacob Diodonet",
+    "year": "2019",
+    "splitStr": "46.41",
+    "splitTime": 46.40199999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "College Men's 4x400 Pop Haddleton MAC": {
+    "leg": 4,
+    "team": "Ursinus",
+    "name": "Andre Kelly",
+    "year": "2019",
+    "splitStr": "9.80",
+    "splitTime": 9.798000000000002,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Championship of America": {
+    "leg": 4,
+    "team": "Hydel (JAM)",
+    "name": "Oneika McAnnuff",
+    "year": "2019",
+    "splitStr": "52.08",
+    "splitTime": 52.071000000000026,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "College Men's Distance Medley Championship of America": {
+    "leg": 2,
+    "team": "Arkansas",
+    "name": "Brandon Battle",
+    "year": "2022",
+    "splitStr": "45.69",
+    "splitTime": 45.68299999999999,
+    "startPlace": 6,
+    "endPlace": 3
+  },
+  "HS Boys' Distance Medley Championship of America": {
+    "leg": 2,
+    "team": "La Salle Academy (RI)",
+    "name": "Steven Doss",
+    "year": "2019",
+    "splitStr": "49.65",
+    "splitTime": 49.646000000000015,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "College Women's Sprint Medley Championship of America": {
+    "leg": 3,
+    "team": "Temple",
+    "name": "Marissa  White",
+    "year": "2022",
+    "splitStr": "0.34",
+    "splitTime": -128.654,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Women's Sprint Medley College": {
+    "leg": 1,
+    "team": "Howard",
+    "name": "Jessika Gbai",
+    "year": "2019",
+    "splitStr": "1:43.86",
+    "splitTime": 103.852,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's Sprint Medley Championship of America": {
+    "leg": 1,
+    "team": "Indiana",
+    "name": "Antonio Laidler",
+    "year": "2022",
+    "splitStr": "1:28.19",
+    "splitTime": 88.188,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's Sprint Medley College": {
+    "leg": 1,
+    "team": "Middle Tennessee",
+    "name": "Stephen Eloji",
+    "year": "2022",
+    "splitStr": "1:30.33",
+    "splitTime": 90.321,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "Corporate Distance Medley": {
+    "leg": 2,
+    "team": "Merck A",
+    "name": "Elizabeth Chikotas",
+    "year": "2022",
+    "splitStr": "1:01.69",
+    "splitTime": 61.68900000000002,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "HS Boys' 4x400": {
+    "leg": 4,
+    "team": "Petersfield (JAM)",
+    "name": "Jamar Pearce",
+    "year": "2019",
+    "splitStr": "46.28",
+    "splitTime": 46.28,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "HS Boys' Prep School 4x400 Independent": {
+    "leg": 4,
+    "team": "Hopkins School (CT)",
+    "name": "Nic Burtson",
+    "year": "2019",
+    "splitStr": "51.71",
+    "splitTime": 51.70600000000002,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "HS Boys' Prep School 4x400": {
+    "leg": 4,
+    "team": "Lawrenceville School (NJ)",
+    "name": "Jakob Kunzer",
+    "year": "2019",
+    "splitStr": "48.70",
+    "splitTime": 48.691,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Inter-Ac": {
+    "leg": 4,
+    "team": "Episcopal Academy (PA)",
+    "name": "Jack Bush",
+    "year": "2019",
+    "splitStr": "49.18",
+    "splitTime": 49.178,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Central": {
+    "leg": 4,
+    "team": "Upper Darby (PA)",
+    "name": "Sidney Turner",
+    "year": "2019",
+    "splitStr": "48.55",
+    "splitTime": 48.548,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Suburban A": {
+    "leg": 2,
+    "team": "Penn Wood (PA)",
+    "name": "James Nmah",
+    "year": "2019",
+    "splitStr": "49.73",
+    "splitTime": 49.73000000000001,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Suburban B": {
+    "leg": 4,
+    "team": "Lower Moreland (PA)",
+    "name": "Shane Cohen",
+    "year": "2019",
+    "splitStr": "48.55",
+    "splitTime": 48.54200000000003,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Suburban ChesMont": {
+    "leg": 4,
+    "team": "West Chester East (PA)",
+    "name": "Ray Crooms",
+    "year": "2019",
+    "splitStr": "49.03",
+    "splitTime": 49.02799999999999,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "HS Boys' 4x400 Suburban National": {
+    "leg": 3,
+    "team": "Pennridge (PA)",
+    "name": "Luke Eissler",
+    "year": "2019",
+    "splitStr": "50.42",
+    "splitTime": 50.41099999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Suburban American": {
+    "leg": 4,
+    "team": "Hatboro-Horsham (PA)",
+    "name": "Caleb Ryu",
+    "year": "2019",
+    "splitStr": "49.22",
+    "splitTime": 49.216999999999985,
+    "startPlace": 8,
+    "endPlace": 6
+  },
+  "HS Boys' 4x400 Northern Delaware": {
+    "leg": 4,
+    "team": "Tatnall (DE)",
+    "name": "Michael Portale",
+    "year": "2019",
+    "splitStr": "49.02",
+    "splitTime": 49.013000000000005,
+    "startPlace": 7,
+    "endPlace": 4
+  },
+  "HS Boys' 4x400 South Jersey Small": {
+    "leg": 4,
+    "team": "Haddonfield Memorial (NJ)",
+    "name": "Tommy Mollis",
+    "year": "2019",
+    "splitStr": "48.60",
+    "splitTime": 48.59200000000001,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 South Jersey Large": {
+    "leg": 2,
+    "team": "Burlington Township (NJ)",
+    "name": "Christopher Glaze",
+    "year": "2019",
+    "splitStr": "50.97",
+    "splitTime": 50.96199999999999,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "HS Boys' 4x400 Philadelphia Catholic": {
+    "leg": 4,
+    "team": "St. Joseph's Prep (PA)",
+    "name": "Salim Epps",
+    "year": "2019",
+    "splitStr": "48.64",
+    "splitTime": 48.63499999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Boys' 4x400 Philadelphia Public": {
+    "leg": 2,
+    "team": "Frankford (PA)",
+    "name": "Jahmir Tucker",
+    "year": "2019",
+    "splitStr": "5.90",
+    "splitTime": 5.893000000000001,
+    "startPlace": 16,
+    "endPlace": 15
+  },
+  "College Women's 4x800 Championship of America": {
+    "leg": 4,
+    "team": "Monmouth",
+    "name": "Allie Wilson",
+    "year": "2019",
+    "splitStr": "2:02.29",
+    "splitTime": 122.29000000000002,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "USA vs. the World Men's 4x400": {
+    "leg": 4,
+    "team": "Bahamas",
+    "name": "Alonzo Russell",
+    "year": "2019",
+    "splitStr": "44.89",
+    "splitTime": 44.88300000000001,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "USA vs. the World Women's 4x400": {
+    "leg": 4,
+    "team": "Jamaica Green",
+    "name": "Tiffany James",
+    "year": "2019",
+    "splitStr": "51.78",
+    "splitTime": 51.78,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "College Women's 4x400 College": {
+    "leg": 3,
+    "team": "UMBC",
+    "name": "Ayanna Johnson",
+    "year": "2022",
+    "splitStr": "52.48",
+    "splitTime": 52.47500000000002,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's 4x400 Championship of America": {
+    "leg": 2,
+    "team": "Ohio State",
+    "name": "Yanique Dayle",
+    "year": "2022",
+    "splitStr": "50.54",
+    "splitTime": 50.533,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "College Men's 4x400 College": {
+    "leg": 3,
+    "team": "Central Arkansas",
+    "name": "Jordan Johnson",
+    "year": "2022",
+    "splitStr": "45.32",
+    "splitTime": 45.316,
+    "startPlace": 5,
+    "endPlace": 4
+  },
+  "College Men's 4x400 Championship of America": {
+    "leg": 4,
+    "team": "Houston",
+    "name": "Obi Igbokwe",
+    "year": "2019",
+    "splitStr": "44.78",
+    "splitTime": 44.77800000000002,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "HS Boys' 4x800 Championship of America": {
+    "leg": 4,
+    "team": "St. Benedict's Prep (NJ)",
+    "name": "Alfred Chawonza",
+    "year": "2019",
+    "splitStr": "1:52.96",
+    "splitTime": 112.95600000000002,
+    "startPlace": 3,
+    "endPlace": 3
+  },
+  "College Women's 4x800 College": {
+    "leg": 3,
+    "team": "Rider",
+    "name": "Teagan Schein-Becker",
+    "year": "2022",
+    "splitStr": "2:04.93",
+    "splitTime": 124.92899999999997,
+    "startPlace": 8,
+    "endPlace": 1
+  },
+  "College Men's 4x800 College": {
+    "leg": 3,
+    "team": "Rider",
+    "name": "Tamrat Snyder",
+    "year": "2022",
+    "splitStr": "1:48.32",
+    "splitTime": 108.31100000000004,
+    "startPlace": 9,
+    "endPlace": 2
+  },
+  "Masters Men's 4x400 40 and older": {
+    "leg": 1,
+    "team": "Southwest Sprinters",
+    "name": "Ederick Clark",
+    "year": "2019",
+    "splitStr": "52.08",
+    "splitTime": 52.072,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Women's 4x400 Eastern": {
+    "leg": 4,
+    "team": "Penn State",
+    "name": "Amariah Thomas",
+    "year": "2019",
+    "splitStr": "51.22",
+    "splitTime": 51.214999999999975,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Men's 4x400 Eastern": {
+    "leg": 3,
+    "team": "East Stroudsburg",
+    "name": "Zandrew Bowe",
+    "year": "2022",
+    "splitStr": "47.37",
+    "splitTime": 47.36700000000002,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "HS Boys' 4x400 Philadelphia Area": {
+    "leg": 4,
+    "team": "Neshaminy (PA)",
+    "name": "Savaughn Hebron",
+    "year": "2019",
+    "splitStr": "47.86",
+    "splitTime": 47.857,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "HS Girls' 4x400 Philadelphia Area": {
+    "leg": 4,
+    "team": "Cheltenham (PA)",
+    "name": "Bria Barnes",
+    "year": "2019",
+    "splitStr": "54.42",
+    "splitTime": 54.416,
+    "startPlace": 9,
+    "endPlace": 5
+  },
+  "HS Boys' 4x400 Championship of America": {
+    "leg": 4,
+    "team": "Calabar (JAM)",
+    "name": "Shevioe Reid",
+    "year": "2019",
+    "splitStr": "46.77",
+    "splitTime": 46.76599999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "Women's 4x400": {
+    "leg": 4,
+    "team": "Moore Elite TC",
+    "name": "Kayla Charles",
+    "year": "2019",
+    "splitStr": "53.70",
+    "splitTime": 53.69900000000001,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Men's 4x400": {
+    "leg": 2,
+    "team": "New Horizon TC",
+    "name": "Cody Housen",
+    "year": "2019",
+    "splitStr": "47.05",
+    "splitTime": 47.04899999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Girls' 4x800 Small Schools": {
+    "leg": 3,
+    "team": "Radnor (PA)",
+    "name": "Zoe Margolies",
+    "year": "2022",
+    "splitStr": "1:07.80",
+    "splitTime": 67.79500000000002,
+    "startPlace": 15,
+    "endPlace": 13
+  },
+  "High School Girls' 4x800 Large Schools": {
+    "leg": 4,
+    "team": "Cherokee (NJ)",
+    "name": "Nicole Clifford",
+    "year": "2022",
+    "splitStr": "2:14.49",
+    "splitTime": 134.48200000000003,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400": {
+    "leg": 4,
+    "team": "Old Bridge (NJ)",
+    "name": "Riley O'Regan",
+    "year": "2022",
+    "splitStr": "0.01",
+    "splitTime": 0.0009999999999763531,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "High School Girls' Prep School 4x400 Independent": {
+    "leg": 2,
+    "team": "Sacred Heart Greenwich (CT)",
+    "name": "Eva Wilkerson",
+    "year": "2022",
+    "splitStr": "1:04.80",
+    "splitTime": 64.792,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "High School Girls' Prep School 4x400 Prep": {
+    "leg": 3,
+    "team": "Lawrenceville School (NJ)",
+    "name": "Sofia Swindell",
+    "year": "2022",
+    "splitStr": "58.41",
+    "splitTime": 58.40700000000001,
+    "startPlace": 7,
+    "endPlace": 7
+  },
+  "High School Girls' 4x400 Philadelphia Academic": {
+    "leg": 4,
+    "team": "The Baldwin School (PA)",
+    "name": "Maddie Davis ",
+    "year": "2022",
+    "splitStr": "0.01",
+    "splitTime": 0.0009999999999763531,
+    "startPlace": 12,
+    "endPlace": 8
+  },
+  "High School Girls' 4x400 Central": {
+    "leg": 2,
+    "team": "Penncrest (PA)",
+    "name": "Kelsie Robinson",
+    "year": "2022",
+    "splitStr": "58.97",
+    "splitTime": 58.962,
+    "startPlace": 4,
+    "endPlace": 3
+  },
+  "High School Girls' 4x400 Suburban A": {
+    "leg": 3,
+    "team": "Spring-Ford (PA)",
+    "name": "McKenzie Thomas",
+    "year": "2022",
+    "splitStr": "1.12",
+    "splitTime": 1.1110000000000184,
+    "startPlace": 10,
+    "endPlace": 3
+  },
+  "High School Girls' 4x400 Suburban ChesMont": {
+    "leg": 4,
+    "team": "Downingtown West (PA)",
+    "name": "Ryleigh Hearn",
+    "year": "2022",
+    "splitStr": "58.81",
+    "splitTime": 58.80799999999999,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "High School Girls' 4x400 Suburban National": {
+    "leg": 3,
+    "team": "Central Bucks West (PA)",
+    "name": "Mimi Duffy",
+    "year": "2022",
+    "splitStr": "59.36",
+    "splitTime": 59.35899999999998,
+    "startPlace": 6,
+    "endPlace": 6
+  },
+  "High School Girls' 4x400 Suburban American": {
+    "leg": 3,
+    "team": "Cheltenham (PA)",
+    "name": "Eyota Bey",
+    "year": "2022",
+    "splitStr": "55.77",
+    "splitTime": 55.763000000000005,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400 Northern Delaware": {
+    "leg": 2,
+    "team": "Padua Academy (DE)",
+    "name": "Molly Flanagan",
+    "year": "2022",
+    "splitStr": "58.51",
+    "splitTime": 58.510000000000005,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400 South Jersey Small": {
+    "leg": 2,
+    "team": "Clayton (NJ)",
+    "name": "Arianna Sharpe",
+    "year": "2022",
+    "splitStr": "53.55",
+    "splitTime": 53.547999999999995,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400 South Jersey Large": {
+    "leg": 3,
+    "team": "Rancocas Valley (NJ)",
+    "name": "Jya Marshall",
+    "year": "2022",
+    "splitStr": "58.43",
+    "splitTime": 58.42099999999999,
+    "startPlace": 6,
+    "endPlace": 6
+  },
+  "High School Girls' 4x400 Philadelphia Catholic": {
+    "leg": 4,
+    "team": "Bonner Prendergast (PA)",
+    "name": "Taylor Johnson",
+    "year": "2022",
+    "splitStr": "1:01.87",
+    "splitTime": 61.865999999999985,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400 Philadelphia Public": {
+    "leg": 2,
+    "team": "Engineering & Science (PA)",
+    "name": "Payton Drumwright",
+    "year": "2022",
+    "splitStr": "57.89",
+    "splitTime": 57.88199999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Girls' Distance Medley Championship of America": {
+    "leg": 2,
+    "team": "Kent Place (NJ)",
+    "name": "Christiana Nwachuku",
+    "year": "2022",
+    "splitStr": "55.58",
+    "splitTime": 55.57400000000001,
+    "startPlace": 9,
+    "endPlace": 5
+  },
+  "High School Boys' 4x800 Heats ": {
+    "leg": 4,
+    "team": "Greencastle-Antrim (PA)",
+    "name": "Weber Long",
+    "year": "2022",
+    "splitStr": "1:57.62",
+    "splitTime": 117.61599999999999,
+    "startPlace": 12,
+    "endPlace": 6
+  },
+  "High School Boys' 4x800 Heats": {
+    "leg": 4,
+    "team": "West Springfield (VA)",
+    "name": "John O'Donnell",
+    "year": "2022",
+    "splitStr": "1:53.56",
+    "splitTime": 113.55900000000003,
+    "startPlace": 5,
+    "endPlace": 2
+  },
+  "College Men's Distance Medley College": {
+    "leg": 2,
+    "team": "Monmouth",
+    "name": "Jalen Jones",
+    "year": "2022",
+    "splitStr": "46.90",
+    "splitTime": 46.899,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "College Women's 4x400 Championship of America (Heats)": {
+    "leg": 2,
+    "team": "Ohio State",
+    "name": "Chanler Robinson",
+    "year": "2022",
+    "splitStr": "51.31",
+    "splitTime": 51.304,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Men's 4x400 Championship of America (Heats)": {
+    "leg": 3,
+    "team": "Ohio State",
+    "name": "Tyrese Fajardo",
+    "year": "2022",
+    "splitStr": "45.55",
+    "splitTime": 45.54599999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Girls' 4x800 Championship of America": {
+    "leg": 4,
+    "team": "Union Catholic (NJ)",
+    "name": "Peyton Hollis",
+    "year": "2022",
+    "splitStr": "2:08.92",
+    "splitTime": 128.91499999999996,
+    "startPlace": 3,
+    "endPlace": 3
+  },
+  "High School Boys' Distance Medley Championship of America": {
+    "leg": 2,
+    "team": "Union Catholic (NJ)",
+    "name": "Nick Givan",
+    "year": "2022",
+    "splitStr": "49.73",
+    "splitTime": 49.72999999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400 Philadelphia Area": {
+    "leg": 4,
+    "team": "Friends' Central (PA)",
+    "name": "Micah Trusty",
+    "year": "2022",
+    "splitStr": "54.47",
+    "splitTime": 54.46300000000002,
+    "startPlace": 3,
+    "endPlace": 1
+  },
+  "High School Girls' 4x400 Championship of America": {
+    "leg": 3,
+    "team": "Hydel (JAM)",
+    "name": "Kernica Hill",
+    "year": "2022",
+    "splitStr": "51.42",
+    "splitTime": 51.41900000000001,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's 4x400 College (Heats)": {
+    "leg": 4,
+    "team": "Navy",
+    "name": "Molly Mangan",
+    "year": "2022",
+    "splitStr": "54.04",
+    "splitTime": 0,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Women's 4x400 Eastern (Heats)": {
+    "leg": 4,
+    "team": "California/PA",
+    "name": "Maila Anderson",
+    "year": "2022",
+    "splitStr": "57.39",
+    "splitTime": 0,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "College Men's 4x400 College (Heats)": {
+    "leg": 4,
+    "team": "Oakland",
+    "name": "Jimmie Williams",
+    "year": "2022",
+    "splitStr": "46.45",
+    "splitTime": 0,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "College Men's 4x400 Eastern (Heats)": {
+    "leg": 4,
+    "team": "St. Francis",
+    "name": "Brian  Strachn",
+    "year": "2022",
+    "splitStr": "48.97",
+    "splitTime": 0,
+    "startPlace": 2,
+    "endPlace": 2
+  },
+  "Men's 4xMile Elite": {
+    "leg": 4,
+    "team": "On Athletics Club",
+    "name": "Oliver Hoare",
+    "year": "2022",
+    "splitStr": "3:55.18",
+    "splitTime": 235.17399999999998,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400": {
+    "leg": 4,
+    "team": "Kingston College (JAM)",
+    "name": "Shaemar Uter",
+    "year": "2022",
+    "splitStr": "46.07",
+    "splitTime": 46.06199999999998,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Boys' Prep School 4x400 Independent": {
+    "leg": 4,
+    "team": "Woodberry Forest (VA)",
+    "name": "Albert Asare",
+    "year": "2022",
+    "splitStr": "50.18",
+    "splitTime": 50.17599999999999,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Boys' Prep School 4x400": {
+    "leg": 4,
+    "team": "Lawrenceville School (NJ)",
+    "name": "Manoc Joa-Griffith",
+    "year": "2022",
+    "splitStr": "48.23",
+    "splitTime": 48.22,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "High School Boys' 4x400 Inter-Ac": {
+    "leg": 4,
+    "team": "Germantown Academy (PA)",
+    "name": "Vance Thorpe",
+    "year": "2022",
+    "splitStr": "49.33",
+    "splitTime": 49.32899999999998,
+    "startPlace": 5,
+    "endPlace": 3
+  },
+  "High School Boys' 4x400 Central": {
+    "leg": 3,
+    "team": "Harriton (PA)",
+    "name": "Ade Woyek",
+    "year": "2022",
+    "splitStr": "50.62",
+    "splitTime": 50.617999999999995,
+    "startPlace": 4,
+    "endPlace": 4
+  },
+  "High School Boys' 4x400 Suburban A": {
+    "leg": 2,
+    "team": "Penn Wood (PA)",
+    "name": "Kouto Anyika",
+    "year": "2022",
+    "splitStr": "49.28",
+    "splitTime": 49.272000000000006,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Suburban ChesMont": {
+    "leg": 4,
+    "team": "Coatesville (PA)",
+    "name": "Lebron Bessick",
+    "year": "2022",
+    "splitStr": "47.32",
+    "splitTime": 47.316,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Suburban National": {
+    "leg": 4,
+    "team": "North Penn (PA)",
+    "name": "Devin Nugent",
+    "year": "2022",
+    "splitStr": "48.07",
+    "splitTime": 48.065,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Suburban American": {
+    "leg": 4,
+    "team": "Bensalem (PA)",
+    "name": "Zyan Greene",
+    "year": "2022",
+    "splitStr": "48.51",
+    "splitTime": 48.50399999999999,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Northern Delaware": {
+    "leg": 2,
+    "team": "Salesianum (DE)",
+    "name": "Bishop Lane",
+    "year": "2022",
+    "splitStr": "49.36",
+    "splitTime": 49.36,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 South Jersey Small": {
+    "leg": 4,
+    "team": "Timber Creek (NJ)",
+    "name": "Austin Brown",
+    "year": "2022",
+    "splitStr": "49.80",
+    "splitTime": 49.79799999999997,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 South Jersey Large": {
+    "leg": 4,
+    "team": "Pennsauken (NJ)",
+    "name": "Bryce Tucker",
+    "year": "2022",
+    "splitStr": "47.97",
+    "splitTime": 47.96199999999999,
+    "startPlace": 3,
+    "endPlace": 2
+  },
+  "High School Boys' 4x400 Philadelphia Catholic": {
+    "leg": 4,
+    "team": "Cardinal O'Hara (PA)",
+    "name": "Jaden Collins",
+    "year": "2022",
+    "splitStr": "49.48",
+    "splitTime": 49.47999999999999,
+    "startPlace": 2,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Philadelphia Public": {
+    "leg": 1,
+    "team": "Martin Luther King (PA)",
+    "name": "Sahfi Reed",
+    "year": "2022",
+    "splitStr": "48.72",
+    "splitTime": 48.719,
+    "startPlace": "N/A",
+    "endPlace": 1
+  },
+  "College Men's 4xMile Championship of America": {
+    "leg": 2,
+    "team": "Indiana",
+    "name": "Kyle Mau",
+    "year": "2022",
+    "splitStr": "3:59.91",
+    "splitTime": 239.90200000000002,
+    "startPlace": 11,
+    "endPlace": 8
+  },
+  "College Men's 4x800 Championship of America": {
+    "leg": 2,
+    "team": "Ole Miss",
+    "name": "Baylor  Franklin",
+    "year": "2022",
+    "splitStr": "1:46.76",
+    "splitTime": 106.75399999999999,
+    "startPlace": 4,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Championship of America": {
+    "leg": 3,
+    "team": "Bullis School (MD)",
+    "name": "Myles Pendarvis",
+    "year": "2022",
+    "splitStr": "46.22",
+    "splitTime": 46.21100000000001,
+    "startPlace": 4,
+    "endPlace": 2
+  },
+  "High School Boys' 4x800 Championship of America": {
+    "leg": 2,
+    "team": "Jamaica College (JAM)",
+    "name": "Handal Roban",
+    "year": "2022",
+    "splitStr": "1:48.12",
+    "splitTime": 108.11200000000001,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "High School Boys' 4x400 Philadelphia Area": {
+    "leg": 4,
+    "team": "Coatesville (PA)",
+    "name": "Lebron Bessick",
+    "year": "2022",
+    "splitStr": "46.39",
+    "splitTime": 46.38900000000001,
+    "startPlace": 6,
+    "endPlace": 2
+  },
+  "Women's 4x400 Open/Club": {
+    "leg": 4,
+    "team": "Garden State TC",
+    "name": "Jordan Shead",
+    "year": "2022",
+    "splitStr": "53.08",
+    "splitTime": 53.077,
+    "startPlace": 1,
+    "endPlace": 1
+  },
+  "Men's 4x400 Open/Club": {
+    "leg": 3,
+    "team": "elitefeats AC",
+    "name": "Kimorie Shearman",
+    "year": "2022",
+    "splitStr": "47.25",
+    "splitTime": 47.249000000000024,
+    "startPlace": 3,
+    "endPlace": 1
+  }
+}

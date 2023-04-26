@@ -4,7 +4,8 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "start": "tsc --module nodenext --outDir build pr.ts && node build/pr"
+    "pr": "tsc --module nodenext --outDir build pr.ts && node build/pr",
+    "analyze": "tsc --module nodenext --outDir build analyze.ts && node build/analyze"
   },
   "author": "",
   "license": "AGPLv3-only",
