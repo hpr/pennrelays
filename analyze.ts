@@ -1,4 +1,5 @@
 import fs from 'fs';
+import { stringify } from 'csv-stringify/sync';
 
 function mergeMeets() {
   const pennRelays = {
@@ -66,7 +67,7 @@ type Series = {
 };
 function getFrequents() {
   const series: Series = JSON.parse(fs.readFileSync('./pennrelays.json', 'utf-8'));
-  const splitRecords = {};
+  const splitRecords: { [k: string]: any } = {};
   for (const year in series) {
     console.log(year);
     for (const eventId in series[year].MeetEvents) {
@@ -88,6 +89,7 @@ function getFrequents() {
             let eventName = `${event.L} ${event.EID}`;
             if (eventName.includes('DMR') || eventName.includes('SMR')) eventName += ` (Leg ${split.L})`;
             const splitObj = {
+              event: eventName,
               leg: split.L,
               team: teamName,
               name: leg?.A?.LN ?? 'Unknown',
@@ -102,12 +104,17 @@ function getFrequents() {
               splitRecords[eventName] = splitObj;
             }
           }
-          // athletes[leg.A.ID] ??= [];
-          // athletes[leg.A.ID]
         }
       }
     }
   }
   fs.writeFileSync('./stats/splitRecords.json', JSON.stringify(splitRecords, null, 2));
+  fs.writeFileSync(
+    './stats/splitRecords.csv',
+    stringify(
+      Object.values(splitRecords).sort((a, b) => a.event.localeCompare(b.event)),
+      { header: true }
+    )
+  );
 }
 getFrequents();

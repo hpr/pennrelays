@@ -1,0 +1,77 @@
+event,leg,team,name,year,splitStr,splitTime,startPlace,endPlace
+"CM 10,000m",25,Evan Brennan,Unknown,2022,1:01.74,61.738000000000056,2,1
+CM 1500m,1,Chris Weeks,Unknown,2022,42.91,42.907,N/A,1
+CM 3000m SC,1,Scott Johnson,Unknown,2022,37.48,37.476,N/A,1
+CM 4x400,3,Houston,Unknown,2018,43.38,43.374000000000024,1,1
+CM 4x800,3,Mississippi State,Unknown,2018,1:46.00,105.99099999999999,5,1
+CM 4xMile,2,Indiana,Kyle Mau,2022,3:59.91,239.90200000000002,11,8
+CM 5000m,1,Luke Johnson,Unknown,2022,31.15,31.142,N/A,1
+CM DMR (Leg 1),1,Wisconsin,Adam Spencer,2022,2:54.49,174.49,N/A,1
+CM DMR (Leg 2),2,Oregon,Unknown,2017,45.58,45.577,5,1
+CM DMR (Leg 3),3,Georgetown,Unknown,2017,1:46.24,106.23500000000001,3,1
+CM DMR (Leg 4),4,Columbia,Unknown,2017,3:57.19,237.18399999999997,11,6
+CM SMR (Leg 1),1,Indiana,Antonio Laidler,2022,1:28.19,88.188,N/A,1
+CM SMR (Leg 2),2,Georgetown,D'Andre Barriffe,2019,1:46.45,106.44200000000001,3,1
+CORP DMR (Leg 1),1,Merck,Curtis Watro,2019,3:19.86,199.851,N/A,1
+CORP DMR (Leg 2),2,Merck A,Elizabeth Chikotas,2022,1:01.69,61.68900000000002,2,2
+CORP DMR (Leg 3),3,On AG,Steve  DeKoker,2022,2:10.06,130.05400000000003,1,1
+CORP DMR (Leg 4),4,Vanguard A,Steven Thompson,2022,4:22.43,262.43,5,4
+"CW 10,000m",25,Andrea Kuhn,Unknown,2022,1:11.87,71.86899999999969,5,5
+CW 1500m,1,Nikhila Obbineni,Unknown,2022,50.37,50.37,N/A,1
+CW 3000m SC,1,Sasha Neglia,Unknown,2022,44.20,44.192,N/A,1
+CW 4x400,2,Ohio State,Yanique Dayle,2022,50.54,50.533,3,2
+CW 4x800,4,Monmouth,Allie Wilson,2019,2:02.29,122.29000000000002,5,3
+CW 5000m,1,Maggie Maier,Unknown,2022,37.23,37.227,N/A,1
+CW DMR (Leg 1),1,BYU,Lauren Ellsworth,2022,3:18.22,198.22,N/A,1
+CW DMR (Leg 2),2,Penn,Uchechi Nwogwugwu,2019,52.22,52.214,1,1
+CW DMR (Leg 3),3,Temple,Unknown,2017,2:10.31,0,19,2
+CW DMR (Leg 4),4,Notre Dame,Jessica Harris,2019,4:28.77,268.766,9,2
+CW SMR (Leg 1),1,Penn State,Kiara Lester,2019,1:40.54,100.538,N/A,1
+CW SMR (Leg 2),2,George Mason,KellyAnn Downer,2019,2:04.37,124.363,3,2
+CW SMR (Leg 3),3,Temple,Marissa  White,2022,0.34,-128.654,3,1
+HSB 3000m,1,Rusty Kujdych,Unknown,2018,31.74,31.735,N/A,1
+HSB 4x400,3,Walter Johnson,Unknown,2017,42.43,42.42100000000002,14,14
+HSB 4x800,2,Jamaica College (JAM),Handal Roban,2022,1:48.12,108.11200000000001,1,1
+HSB DMR (Leg 1),1,Bronxville (NY),Alex Rizzo,2019,3:01.53,181.527,N/A,1
+HSB DMR (Leg 2),2,Council Rock North,Unknown,2017,47.84,47.831999999999994,3,1
+HSB DMR (Leg 3),3,McNair Academic,Unknown,2017,1:54.14,114.13799999999998,6,5
+HSB DMR (Leg 4),4,St. Raphael (RI),Devan Kipyego,2022,4:04.35,244.346,8,2
+HSB Mile,4,Aiden Neal,Unknown,2022,59.14,59.136000000000024,6,4
+HSG 3000m,1,Angelina Perez,Unknown,2022,34.03,34.025,N/A,1
+HSG 4x400,3,Union Catholic,Unknown,2017,50.37,50.369,6,3
+HSG 4x800,2,Holmwood Tech,Unknown,2018,2:08.54,128.536,2,1
+HSG 5K RW,1,Ciara Durcan,Unknown,2019,52.49,52.486,N/A,1
+HSG DMR (Leg 1),1,North Rockland,Unknown,2017,3:32.67,212.665,N/A,1
+HSG DMR (Leg 2),2,Granville,Unknown,2017,54.46,54.45300000000003,4,2
+HSG DMR (Leg 3),3,Benjamin Cardozo,Unknown,2018,2:11.52,131.519,5,1
+HSG DMR (Leg 4),4,North Rockland (NY),Katelyn Tuohy,2019,4:36.94,276.93399999999997,15,6
+HSG Mile,5,Victoria Starcher,Unknown,2018,19.22,19.218000000000018,2,2
+JR 10K RW,1,Carson Johnson,Unknown,2018,55.23,55.229,N/A,1
+JR 5K RW,1,Clayton Stoil,Unknown,2022,52.71,52.71,N/A,1
+"M 10,000m",3,Otto Kingstedt,Unknown,2019,1:08.65,68.65,14,11
+M 3000m SC,1,Travis Mahoney ,Unknown,2018,38.75,38.75,N/A,1
+M 5000m,7,Clint McKelvey,Unknown,2018,0.00,0,9,7
+MAS 10K RW,1,Lubin Hernandez Palomino,Unknown,2018,57.68,57.679,N/A,1
+MAS 4x400 40+,4,USA Masters,Unknown,2017,48.27,48.263000000000005,2,1
+MAS 5K RW,1,Dmitry Babenko,Unknown,2022,56.16,56.153,N/A,1
+ODM 10K RW,1,Anthony Peters,Unknown,2018,47.45,47.45,N/A,1
+ODM 3000m SC,1,Colin Daly,Unknown,2022,36.79,36.787,N/A,1
+ODM 4x400,3,Bahamas,Unknown,2018,44.29,44.286,2,1
+ODM 4xMile,4,On Athletics Club,Oliver Hoare,2022,3:55.18,235.17399999999998,2,1
+ODM 5000m,1,Dage Minors,Unknown,2022,32.23,32.221,N/A,1
+ODM 5K RW,1,Nick Christie,Unknown,2022,47.84,47.836,N/A,1
+ODM 600m,1,CJ Jones,Unknown,2022,23.58,23.571,N/A,1
+ODM 800m,1,Alex Amankwah,Unknown,2022,51.03,51.025,N/A,1
+ODM Mile,5,Johnny Gregorek,Unknown,2018,15.94,15.938000000000017,1,1
+ODW 1500m,1,Senna Ohlsson,Unknown,2022,47.01,47.008,N/A,1
+ODW 3000m SC,1,Carmen Graves,Unknown,2022,43.13,43.121,N/A,1
+ODW 4x400,3,USA,Unknown,2017,50.96,50.95400000000001,2,2
+ODW 5000m,1,Grace Moore,Unknown,2022,35.43,35.423,N/A,1
+ODW 5K RW,13,Jordan,Unknown,2017,2:19.17,0,24,16
+ODW 600m,1,Ajee' Wilson,Unknown,2022,26.01,26.002,N/A,1
+ODW 800m,1,Madeline Kopp,Unknown,2022,57.94,57.939,N/A,1
+ODW Mile,5,Charlene Lipsey,Unknown,2018,17.30,17.292,1,1
+"W 10,000m",14,Maura Linde,Unknown,2019,29.07,29.069999999999936,3,1
+W 3000m,1,Catarina Rocha,Unknown,2018,36.21,36.209,N/A,1
+W 3000m SC,1,Autumn Eastman,Unknown,2018,43.73,43.729,N/A,1
+W 5000m,10,Nadia Saponara,Unknown,2018,0.02,0.015000000000100044,22,16

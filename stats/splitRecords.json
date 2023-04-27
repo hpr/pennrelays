@@ -1,5 +1,6 @@
 {
   "HSG 4x800": {
+    "event": "HSG 4x800",
     "leg": 2,
     "team": "Holmwood Tech",
     "name": "Unknown",
@@ -10,6 +11,7 @@
     "endPlace": 1
   },
   "HSG 4x400": {
+    "event": "HSG 4x400",
     "leg": 3,
     "team": "Union Catholic",
     "name": "Unknown",
@@ -20,6 +22,7 @@
     "endPlace": 3
   },
   "CW DMR (Leg 1)": {
+    "event": "CW DMR (Leg 1)",
     "leg": 1,
     "team": "BYU",
     "name": "Lauren Ellsworth",
@@ -30,6 +33,7 @@
     "endPlace": 1
   },
   "CW DMR (Leg 2)": {
+    "event": "CW DMR (Leg 2)",
     "leg": 2,
     "team": "Penn",
     "name": "Uchechi Nwogwugwu",
@@ -40,6 +44,7 @@
     "endPlace": 1
   },
   "CW DMR (Leg 3)": {
+    "event": "CW DMR (Leg 3)",
     "leg": 3,
     "team": "Temple",
     "name": "Unknown",
@@ -50,6 +55,7 @@
     "endPlace": 2
   },
   "CW DMR (Leg 4)": {
+    "event": "CW DMR (Leg 4)",
     "leg": 4,
     "team": "Notre Dame",
     "name": "Jessica Harris",
@@ -60,6 +66,7 @@
     "endPlace": 2
   },
   "HSG 3000m": {
+    "event": "HSG 3000m",
     "leg": 1,
     "team": "Angelina Perez",
     "name": "Unknown",
@@ -70,6 +77,7 @@
     "endPlace": 1
   },
   "HSG Mile": {
+    "event": "HSG Mile",
     "leg": 5,
     "team": "Victoria Starcher",
     "name": "Unknown",
@@ -80,6 +88,7 @@
     "endPlace": 2
   },
   "HSG DMR (Leg 1)": {
+    "event": "HSG DMR (Leg 1)",
     "leg": 1,
     "team": "North Rockland",
     "name": "Unknown",
@@ -90,6 +99,7 @@
     "endPlace": 1
   },
   "HSG DMR (Leg 2)": {
+    "event": "HSG DMR (Leg 2)",
     "leg": 2,
     "team": "Granville",
     "name": "Unknown",
@@ -100,6 +110,7 @@
     "endPlace": 2
   },
   "HSG DMR (Leg 3)": {
+    "event": "HSG DMR (Leg 3)",
     "leg": 3,
     "team": "Benjamin Cardozo",
     "name": "Unknown",
@@ -110,6 +121,7 @@
     "endPlace": 1
   },
   "HSG DMR (Leg 4)": {
+    "event": "HSG DMR (Leg 4)",
     "leg": 4,
     "team": "North Rockland (NY)",
     "name": "Katelyn Tuohy",
@@ -120,6 +132,7 @@
     "endPlace": 6
   },
   "CW 4x400": {
+    "event": "CW 4x400",
     "leg": 2,
     "team": "Ohio State",
     "name": "Yanique Dayle",
@@ -130,6 +143,7 @@
     "endPlace": 2
   },
   "HSB 4x800": {
+    "event": "HSB 4x800",
     "leg": 2,
     "team": "Jamaica College (JAM)",
     "name": "Handal Roban",
@@ -140,6 +154,7 @@
     "endPlace": 1
   },
   "CM DMR (Leg 1)": {
+    "event": "CM DMR (Leg 1)",
     "leg": 1,
     "team": "Wisconsin",
     "name": "Adam Spencer",
@@ -150,6 +165,7 @@
     "endPlace": 1
   },
   "CM DMR (Leg 2)": {
+    "event": "CM DMR (Leg 2)",
     "leg": 2,
     "team": "Oregon",
     "name": "Unknown",
@@ -160,6 +176,7 @@
     "endPlace": 1
   },
   "CM DMR (Leg 3)": {
+    "event": "CM DMR (Leg 3)",
     "leg": 3,
     "team": "Georgetown",
     "name": "Unknown",
@@ -170,6 +187,7 @@
     "endPlace": 1
   },
   "CM DMR (Leg 4)": {
+    "event": "CM DMR (Leg 4)",
     "leg": 4,
     "team": "Columbia",
     "name": "Unknown",
@@ -180,6 +198,7 @@
     "endPlace": 6
   },
   "CM 4x400": {
+    "event": "CM 4x400",
     "leg": 3,
     "team": "Houston",
     "name": "Unknown",
@@ -190,6 +209,7 @@
     "endPlace": 1
   },
   "HSB DMR (Leg 1)": {
+    "event": "HSB DMR (Leg 1)",
     "leg": 1,
     "team": "Bronxville (NY)",
     "name": "Alex Rizzo",
@@ -200,6 +220,7 @@
     "endPlace": 1
   },
   "HSB DMR (Leg 2)": {
+    "event": "HSB DMR (Leg 2)",
     "leg": 2,
     "team": "Council Rock North",
     "name": "Unknown",
@@ -210,6 +231,7 @@
     "endPlace": 1
   },
   "HSB DMR (Leg 3)": {
+    "event": "HSB DMR (Leg 3)",
     "leg": 3,
     "team": "McNair Academic",
     "name": "Unknown",
@@ -220,6 +242,7 @@
     "endPlace": 5
   },
   "HSB DMR (Leg 4)": {
+    "event": "HSB DMR (Leg 4)",
     "leg": 4,
     "team": "St. Raphael (RI)",
     "name": "Devan Kipyego",
@@ -230,6 +253,7 @@
     "endPlace": 2
   },
   "MAS 4x400 40+": {
+    "event": "MAS 4x400 40+",
     "leg": 4,
     "team": "USA Masters",
     "name": "Unknown",
@@ -240,6 +264,7 @@
     "endPlace": 1
   },
   "ODM 10K RW": {
+    "event": "ODM 10K RW",
     "leg": 1,
     "team": "Anthony Peters",
     "name": "Unknown",
@@ -250,6 +275,7 @@
     "endPlace": 1
   },
   "ODW 5K RW": {
+    "event": "ODW 5K RW",
     "leg": 13,
     "team": "Jordan",
     "name": "Unknown",
@@ -260,6 +286,7 @@
     "endPlace": 16
   },
   "HSB 4x400": {
+    "event": "HSB 4x400",
     "leg": 3,
     "team": "Walter Johnson",
     "name": "Unknown",
@@ -270,6 +297,7 @@
     "endPlace": 14
   },
   "ODM 4x400": {
+    "event": "ODM 4x400",
     "leg": 3,
     "team": "Bahamas",
     "name": "Unknown",
@@ -280,6 +308,7 @@
     "endPlace": 1
   },
   "ODW 4x400": {
+    "event": "ODW 4x400",
     "leg": 3,
     "team": "USA",
     "name": "Unknown",
@@ -290,6 +319,7 @@
     "endPlace": 2
   },
   "CW 4x800": {
+    "event": "CW 4x800",
     "leg": 4,
     "team": "Monmouth",
     "name": "Allie Wilson",
@@ -300,6 +330,7 @@
     "endPlace": 3
   },
   "CM 4x800": {
+    "event": "CM 4x800",
     "leg": 3,
     "team": "Mississippi State",
     "name": "Unknown",
@@ -310,6 +341,7 @@
     "endPlace": 1
   },
   "M 3000m SC": {
+    "event": "M 3000m SC",
     "leg": 1,
     "team": "Travis Mahoney ",
     "name": "Unknown",
@@ -320,6 +352,7 @@
     "endPlace": 1
   },
   "W 3000m SC": {
+    "event": "W 3000m SC",
     "leg": 1,
     "team": "Autumn Eastman",
     "name": "Unknown",
@@ -330,6 +363,7 @@
     "endPlace": 1
   },
   "W 3000m": {
+    "event": "W 3000m",
     "leg": 1,
     "team": "Catarina Rocha",
     "name": "Unknown",
@@ -340,6 +374,7 @@
     "endPlace": 1
   },
   "W 5000m": {
+    "event": "W 5000m",
     "leg": 10,
     "team": "Nadia Saponara",
     "name": "Unknown",
@@ -350,6 +385,7 @@
     "endPlace": 16
   },
   "M 5000m": {
+    "event": "M 5000m",
     "leg": 7,
     "team": "Clint McKelvey",
     "name": "Unknown",
@@ -360,6 +396,7 @@
     "endPlace": 7
   },
   "HSB Mile": {
+    "event": "HSB Mile",
     "leg": 4,
     "team": "Aiden Neal",
     "name": "Unknown",
@@ -370,6 +407,7 @@
     "endPlace": 4
   },
   "HSB 3000m": {
+    "event": "HSB 3000m",
     "leg": 1,
     "team": "Rusty Kujdych",
     "name": "Unknown",
@@ -380,6 +418,7 @@
     "endPlace": 1
   },
   "MAS 10K RW": {
+    "event": "MAS 10K RW",
     "leg": 1,
     "team": "Lubin Hernandez Palomino",
     "name": "Unknown",
@@ -390,6 +429,7 @@
     "endPlace": 1
   },
   "JR 10K RW": {
+    "event": "JR 10K RW",
     "leg": 1,
     "team": "Carson Johnson",
     "name": "Unknown",
@@ -400,6 +440,7 @@
     "endPlace": 1
   },
   "HSG 5K RW": {
+    "event": "HSG 5K RW",
     "leg": 1,
     "team": "Ciara Durcan",
     "name": "Unknown",
@@ -410,6 +451,7 @@
     "endPlace": 1
   },
   "ODW Mile": {
+    "event": "ODW Mile",
     "leg": 5,
     "team": "Charlene Lipsey",
     "name": "Unknown",
@@ -420,6 +462,7 @@
     "endPlace": 1
   },
   "ODM Mile": {
+    "event": "ODM Mile",
     "leg": 5,
     "team": "Johnny Gregorek",
     "name": "Unknown",
@@ -430,6 +473,7 @@
     "endPlace": 1
   },
   "W 10,000m": {
+    "event": "W 10,000m",
     "leg": 14,
     "team": "Maura Linde",
     "name": "Unknown",
@@ -440,6 +484,7 @@
     "endPlace": 1
   },
   "M 10,000m": {
+    "event": "M 10,000m",
     "leg": 3,
     "team": "Otto Kingstedt",
     "name": "Unknown",
@@ -450,6 +495,7 @@
     "endPlace": 11
   },
   "CW SMR (Leg 1)": {
+    "event": "CW SMR (Leg 1)",
     "leg": 1,
     "team": "Penn State",
     "name": "Kiara Lester",
@@ -460,6 +506,7 @@
     "endPlace": 1
   },
   "CW SMR (Leg 2)": {
+    "event": "CW SMR (Leg 2)",
     "leg": 2,
     "team": "George Mason",
     "name": "KellyAnn Downer",
@@ -470,6 +517,7 @@
     "endPlace": 2
   },
   "CM SMR (Leg 1)": {
+    "event": "CM SMR (Leg 1)",
     "leg": 1,
     "team": "Indiana",
     "name": "Antonio Laidler",
@@ -480,6 +528,7 @@
     "endPlace": 1
   },
   "CM SMR (Leg 2)": {
+    "event": "CM SMR (Leg 2)",
     "leg": 2,
     "team": "Georgetown",
     "name": "D'Andre Barriffe",
@@ -490,6 +539,7 @@
     "endPlace": 1
   },
   "CORP DMR (Leg 1)": {
+    "event": "CORP DMR (Leg 1)",
     "leg": 1,
     "team": "Merck",
     "name": "Curtis Watro",
@@ -500,6 +550,7 @@
     "endPlace": 1
   },
   "CORP DMR (Leg 4)": {
+    "event": "CORP DMR (Leg 4)",
     "leg": 4,
     "team": "Vanguard A",
     "name": "Steven Thompson",
@@ -510,6 +561,7 @@
     "endPlace": 4
   },
   "CORP DMR (Leg 3)": {
+    "event": "CORP DMR (Leg 3)",
     "leg": 3,
     "team": "On AG",
     "name": "Steve  DeKoker",
@@ -520,6 +572,7 @@
     "endPlace": 1
   },
   "ODM 5K RW": {
+    "event": "ODM 5K RW",
     "leg": 1,
     "team": "Nick Christie",
     "name": "Unknown",
@@ -530,6 +583,7 @@
     "endPlace": 1
   },
   "CW 1500m": {
+    "event": "CW 1500m",
     "leg": 1,
     "team": "Nikhila Obbineni",
     "name": "Unknown",
@@ -540,6 +594,7 @@
     "endPlace": 1
   },
   "CM 1500m": {
+    "event": "CM 1500m",
     "leg": 1,
     "team": "Chris Weeks",
     "name": "Unknown",
@@ -550,6 +605,7 @@
     "endPlace": 1
   },
   "CW 3000m SC": {
+    "event": "CW 3000m SC",
     "leg": 1,
     "team": "Sasha Neglia",
     "name": "Unknown",
@@ -560,6 +616,7 @@
     "endPlace": 1
   },
   "CM 3000m SC": {
+    "event": "CM 3000m SC",
     "leg": 1,
     "team": "Scott Johnson",
     "name": "Unknown",
@@ -570,6 +627,7 @@
     "endPlace": 1
   },
   "CW 5000m": {
+    "event": "CW 5000m",
     "leg": 1,
     "team": "Maggie Maier",
     "name": "Unknown",
@@ -580,6 +638,7 @@
     "endPlace": 1
   },
   "CM 5000m": {
+    "event": "CM 5000m",
     "leg": 1,
     "team": "Luke Johnson",
     "name": "Unknown",
@@ -590,6 +649,7 @@
     "endPlace": 1
   },
   "CW 10,000m": {
+    "event": "CW 10,000m",
     "leg": 25,
     "team": "Andrea Kuhn",
     "name": "Unknown",
@@ -600,6 +660,7 @@
     "endPlace": 5
   },
   "CM 10,000m": {
+    "event": "CM 10,000m",
     "leg": 25,
     "team": "Evan Brennan",
     "name": "Unknown",
@@ -610,6 +671,7 @@
     "endPlace": 1
   },
   "CW SMR (Leg 3)": {
+    "event": "CW SMR (Leg 3)",
     "leg": 3,
     "team": "Temple",
     "name": "Marissa  White",
@@ -620,6 +682,7 @@
     "endPlace": 1
   },
   "CORP DMR (Leg 2)": {
+    "event": "CORP DMR (Leg 2)",
     "leg": 2,
     "team": "Merck A",
     "name": "Elizabeth Chikotas",
@@ -630,6 +693,7 @@
     "endPlace": 2
   },
   "ODW 800m": {
+    "event": "ODW 800m",
     "leg": 1,
     "team": "Madeline Kopp",
     "name": "Unknown",
@@ -640,6 +704,7 @@
     "endPlace": 1
   },
   "ODM 800m": {
+    "event": "ODM 800m",
     "leg": 1,
     "team": "Alex Amankwah",
     "name": "Unknown",
@@ -650,6 +715,7 @@
     "endPlace": 1
   },
   "ODW 3000m SC": {
+    "event": "ODW 3000m SC",
     "leg": 1,
     "team": "Carmen Graves",
     "name": "Unknown",
@@ -660,6 +726,7 @@
     "endPlace": 1
   },
   "ODM 3000m SC": {
+    "event": "ODM 3000m SC",
     "leg": 1,
     "team": "Colin Daly",
     "name": "Unknown",
@@ -670,6 +737,7 @@
     "endPlace": 1
   },
   "ODM 4xMile": {
+    "event": "ODM 4xMile",
     "leg": 4,
     "team": "On Athletics Club",
     "name": "Oliver Hoare",
@@ -680,6 +748,7 @@
     "endPlace": 1
   },
   "ODW 5000m": {
+    "event": "ODW 5000m",
     "leg": 1,
     "team": "Grace Moore",
     "name": "Unknown",
@@ -690,6 +759,7 @@
     "endPlace": 1
   },
   "ODM 5000m": {
+    "event": "ODM 5000m",
     "leg": 1,
     "team": "Dage Minors",
     "name": "Unknown",
@@ -700,6 +770,7 @@
     "endPlace": 1
   },
   "MAS 5K RW": {
+    "event": "MAS 5K RW",
     "leg": 1,
     "team": "Dmitry Babenko",
     "name": "Unknown",
@@ -710,6 +781,7 @@
     "endPlace": 1
   },
   "JR 5K RW": {
+    "event": "JR 5K RW",
     "leg": 1,
     "team": "Clayton Stoil",
     "name": "Unknown",
@@ -720,6 +792,7 @@
     "endPlace": 1
   },
   "CM 4xMile": {
+    "event": "CM 4xMile",
     "leg": 2,
     "team": "Indiana",
     "name": "Kyle Mau",
@@ -730,6 +803,7 @@
     "endPlace": 8
   },
   "ODW 1500m": {
+    "event": "ODW 1500m",
     "leg": 1,
     "team": "Senna Ohlsson",
     "name": "Unknown",
@@ -740,6 +814,7 @@
     "endPlace": 1
   },
   "ODW 600m": {
+    "event": "ODW 600m",
     "leg": 1,
     "team": "Ajee' Wilson",
     "name": "Unknown",
@@ -750,6 +825,7 @@
     "endPlace": 1
   },
   "ODM 600m": {
+    "event": "ODM 600m",
     "leg": 1,
     "team": "CJ Jones",
     "name": "Unknown",
